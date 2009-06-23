@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2009-06-23 16:36+0200\n"
+"PO-Revision-Date: 2009-06-23 16:36+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. [campaign]: id=COMS
+#: Missing_Scepter/_main.cfg:12
+msgid "Case of the Missing Scepter"
+msgstr ""
+
+#. [campaign]: id=COMS
+#: Missing_Scepter/_main.cfg:17
+msgid "<255,24,24>Master of the Arcane"
+msgstr ""
+
+#. [campaign]: id=COMS
+#: Missing_Scepter/_main.cfg:17
+msgid "<255,180,180>(Irksome)"
+msgstr ""
+
+#. [campaign]: id=COMS
+#: Missing_Scepter/_main.cfg:17
+msgid "<255,255,255>(Beginner)"
+msgstr ""
+
+#. [campaign]: id=COMS
+#: Missing_Scepter/_main.cfg:17
+msgid "<255,24,24>(Hopeless)"
+msgstr ""
+
+#. [campaign]: id=COMS
+#: Missing_Scepter/_main.cfg:17
+msgid "<255,180,180>Magick Ready"
+msgstr ""
+
+#. [campaign]: id=COMS
+#: Missing_Scepter/_main.cfg:17
+msgid "<255,255,255>Card Tricks"
+msgstr ""
+
+#. [campaign]: id=COMS
+#: Missing_Scepter/_main.cfg:24
+msgid ""
+"<0,64,255>Case of the Missing Scepter,\n"
+"\n"
+"<0,120,255>a Warlock Homz Case\n"
+"\n"
+"As Healing Mage Flotsom, you chronicle one of Warlock Homz's most dangerous "
+"adventures as he takes on the Case of the Missing Scepter.\n"
+"\n"
+"<0,180,255>(Novice level, 15 scenarios)"
+msgstr ""
+
+#. [about]
+#: Missing_Scepter/_main.cfg:30
+msgid "Campaign Designer"
+msgstr ""
+
+#. [about]
+#: Missing_Scepter/_main.cfg:36
+msgid "Art"
+msgstr ""

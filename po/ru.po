@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2009-06-23 16:36+0200\n"
+"POT-Creation-Date: 2009-07-05 17:21+0200\n"
 "PO-Revision-Date: 2009-06-23 16:36+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -24,12 +24,12 @@ msgstr ""
 
 #. [campaign]: id=COMS
 #: Missing_Scepter/_main.cfg:17
-msgid "<255,180,180>(Irksome)"
+msgid "<255,255,255>(Beginner)"
 msgstr ""
 
 #. [campaign]: id=COMS
 #: Missing_Scepter/_main.cfg:17
-msgid "<255,255,255>(Beginner)"
+msgid "<255,255,255>Card Tricks"
 msgstr ""
 
 #. [campaign]: id=COMS
@@ -39,12 +39,12 @@ msgstr ""
 
 #. [campaign]: id=COMS
 #: Missing_Scepter/_main.cfg:17
-msgid "<255,180,180>Magick Ready"
+msgid "<255,180,180>(Irksome)"
 msgstr ""
 
 #. [campaign]: id=COMS
 #: Missing_Scepter/_main.cfg:17
-msgid "<255,255,255>Card Tricks"
+msgid "<255,180,180>Magick Ready"
 msgstr ""
 
 #. [campaign]: id=COMS
@@ -68,4 +68,5171 @@ msgstr ""
 #. [about]
 #: Missing_Scepter/_main.cfg:36
 msgid "Art"
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/01_Retreat.cfg:9
+msgid ""
+"Orders have been received to move out of the Northern Marches. At long last, "
+"someone in Weldyn has figured out that there is nothing of value up here."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/01_Retreat.cfg:14
+msgid ""
+"All we have to do now is march, in a single file, on a narrow path, through "
+"mountainous territory held by newly created enemies who hold a grudge "
+"against Wesnoth."
+msgstr ""
+
+#. [side]: type=Flotsom White, id=Flotsom, id=Flotsom
+#: Missing_Scepter/scenarios/01_Retreat.cfg:58
+msgid "Healers"
+msgstr ""
+
+#. [unit]: type=White Mage, id=Eucalypse
+#: Missing_Scepter/scenarios/01_Retreat.cfg:79
+msgid "Eucalypse"
+msgstr ""
+
+#. [unit]: type=Spearman, id=Gongadin
+#: Missing_Scepter/scenarios/01_Retreat.cfg:94
+msgid "Gongadin"
+msgstr ""
+
+#. [unit]: type=White Mage, id=Tabbithè
+#: Missing_Scepter/scenarios/01_Retreat.cfg:109
+msgid "Tabbithè"
+msgstr ""
+
+#. [side]: type=Necromancer, id=Yabaskintith
+#: Missing_Scepter/scenarios/01_Retreat.cfg:127
+msgid "hungry"
+msgstr ""
+
+#. [unit]: type=Necrophage, id=Necrophagy
+#: Missing_Scepter/scenarios/01_Retreat.cfg:153
+msgid "Necrophagy"
+msgstr ""
+
+#. [side]: type=Sergeant, id=Sarge, id=Sarge
+#: Missing_Scepter/scenarios/01_Retreat.cfg:164
+msgid "Vanguard"
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/01_Retreat.cfg:222
+msgid ""
+"We have misjudged the Northerners. There has not been any real ambush so "
+"far. Let us make haste before they loose their patience."
+msgstr ""
+
+#. [message]: speaker=Sarge
+#: Missing_Scepter/scenarios/01_Retreat.cfg:226
+msgid ""
+"Don't worry, they are too busy sacking our deserted quarters. Hey, speaking "
+"of removing everything of value, has anyone remembered to send a scout to "
+"our outpost cave that guards this goat trail? We need to bring out any gold "
+"there with us back to Wesnoth."
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/01_Retreat.cfg:233
+msgid "Move Flotsom to the end of the trail"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:461
+#: Missing_Scepter/scenarios/18c_Water.cfg:126
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:227
+#: Missing_Scepter/scenarios/11c_Pyramid.cfg:72
+#: Missing_Scepter/scenarios/18a_Ice.cfg:131
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:156
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:200
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:228
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:138
+#: Missing_Scepter/scenarios/02_Vacation.cfg:123
+#: Missing_Scepter/scenarios/18b_Fire.cfg:77
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:138
+#: Missing_Scepter/scenarios/04b_Training.cfg:148
+#: Missing_Scepter/scenarios/19_Rescue.cfg:144
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:179
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:246
+#: Missing_Scepter/scenarios/20_Orcs.cfg:249
+#: Missing_Scepter/scenarios/01_Retreat.cfg:237
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:232
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:196
+#: Missing_Scepter/scenarios/09_Carcyn.cfg:110
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:168
+#: Missing_Scepter/scenarios/04a_Hiring.cfg:146
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:143
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:225
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:232
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:214
+#: Missing_Scepter/scenarios/18d_Exit.cfg:54
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:202
+msgid "Death of Flotsom"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:473
+#: Missing_Scepter/scenarios/18c_Water.cfg:138
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:239
+#: Missing_Scepter/scenarios/11c_Pyramid.cfg:84
+#: Missing_Scepter/scenarios/18a_Ice.cfg:143
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:168
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:212
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:240
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:150
+#: Missing_Scepter/scenarios/18b_Fire.cfg:89
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:150
+#: Missing_Scepter/scenarios/04b_Training.cfg:160
+#: Missing_Scepter/scenarios/19_Rescue.cfg:156
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:191
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:258
+#: Missing_Scepter/scenarios/20_Orcs.cfg:261
+#: Missing_Scepter/scenarios/01_Retreat.cfg:241
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:244
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:208
+#: Missing_Scepter/scenarios/09_Carcyn.cfg:122
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:180
+#: Missing_Scepter/scenarios/04a_Hiring.cfg:158
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:155
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:237
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:244
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:112
+#: Missing_Scepter/scenarios/18d_Exit.cfg:66
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:214
+msgid "Death of Gongadin"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Missing_Scepter/scenarios/01_Retreat.cfg:245
+msgid "Death of Tabbithè"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:477
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:243
+#: Missing_Scepter/scenarios/11c_Pyramid.cfg:88
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:172
+#: Missing_Scepter/scenarios/16a_Black_Crystal.cfg:158
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:216
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:244
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:154
+#: Missing_Scepter/scenarios/02_Vacation.cfg:135
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:154
+#: Missing_Scepter/scenarios/04b_Training.cfg:164
+#: Missing_Scepter/scenarios/16_Black_Crystal.cfg:151
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:195
+#: Missing_Scepter/scenarios/01_Retreat.cfg:249
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:248
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:216
+#: Missing_Scepter/scenarios/09_Carcyn.cfg:126
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:184
+#: Missing_Scepter/scenarios/04a_Hiring.cfg:162
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:159
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:241
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:248
+msgid "Turns run out"
+msgstr ""
+
+#. [message]: speaker=Necrophagy
+#: Missing_Scepter/scenarios/01_Retreat.cfg:259
+msgid "<0,255,0>Master, I smell something delicious. I SMELL BRAINS! BRAINS!!!"
+msgstr ""
+
+#. [message]: speaker=Yabaskintith
+#: Missing_Scepter/scenarios/01_Retreat.cfg:263
+msgid "You just ate an entire Wesnoth garrison. Where do you put it?"
+msgstr ""
+
+#. [message]: speaker=Necrophagy
+#: Missing_Scepter/scenarios/01_Retreat.cfg:267
+msgid "<0,255,0>I have been putting IT in that chest over there."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/01_Retreat.cfg:287
+msgid ""
+"There is still gold in this chest! It's covered with...why would they do "
+"that? I will split it all with the vanguard."
+msgstr ""
+
+#. [message]: speaker=Sarge
+#: Missing_Scepter/scenarios/01_Retreat.cfg:308
+msgid "Just split the gold. You can keep the rest. Oh, oh. We have visitors."
+msgstr ""
+
+#. [message]: type=Woodsman
+#: Missing_Scepter/scenarios/01_Retreat.cfg:321
+msgid ""
+"You sticky-fingered land-grabbing imperialists are still here?!? Good, I "
+"have something for you. It is a goodbye kiss in the form of an arrow."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/01_Retreat.cfg:333
+msgid ""
+"Fields, flowers, forests, frolicking fauns, and denizens who do not desire "
+"to gorge themselves on my flesh! I swear I will never never never return to "
+"this place no matter how good the cause."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/01_Retreat.cfg:347
+msgid ""
+"But...but...this is only a nightmarish recall of an event that happened "
+"years ago. If man dies in his dream, does he die in real life?"
+msgstr ""
+
+#. [message]: speaker=Tabbithè
+#: Missing_Scepter/scenarios/01_Retreat.cfg:360
+msgid "Well, I least I got to see the Northern Wastelands before I died."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/02_Vacation.cfg:10
+msgid ""
+"The retreat from the Northern Marches of Wesnoth was a disaster. Why Wesnoth "
+"would want to colonize that region is almost a great a mystery as to how "
+"creatures in that wasteland can survive when there is not a Wesnoth army "
+"around to eat."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/02_Vacation.cfg:15
+msgid ""
+"When I made it back to Wesnoth I was cashiered from Her Majesty's service. I "
+"decided to settle in Weldyn and set up my healing practice. The story of my "
+"finding quarters and meeting Warlock Homz are well known since they were "
+"first published in the Weldyn Weekly."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/02_Vacation.cfg:20
+msgid ""
+"Some of the more interesting adventures of Warlock Homz will never be "
+"published in order to protect the innocent from needless shame or "
+"retribution. Others stories are kept from the public until such a time that "
+"they will not cause harm. The Case of the Missing Scepter is one that had to "
+"be kept from public knowledge until after the demise of the reign of "
+"Asheviere the Widow."
+msgstr ""
+
+#. [scenario]: id=02_Vacation
+#: Missing_Scepter/scenarios/02_Vacation.cfg:28
+msgid "Flotsom Needs a Vacation"
+msgstr ""
+
+#. [side]: type=Flotsom White, id=Flotsom, id=Flotsom
+#. [side]: type=Flotsom White, id=Flotsom
+#. [side]: type=Elvish Lady, id=Uoiwyua, id=Uoiwyua
+#. [side]: type=Elvish Lord, id=Ayieoea, id=Ayieoea
+#. [side]: type=Dwarvish Dragonguard, id=Plagbok, id=Plagbok
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:45
+#: Missing_Scepter/scenarios/18c_Water.cfg:21
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:50
+#: Missing_Scepter/scenarios/11c_Pyramid.cfg:25
+#: Missing_Scepter/scenarios/18a_Ice.cfg:26
+#: Missing_Scepter/scenarios/21gb_End.cfg:92
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:26
+#: Missing_Scepter/scenarios/16a_Black_Crystal.cfg:26
+#: Missing_Scepter/scenarios/16a_Black_Crystal.cfg:86
+#: Missing_Scepter/scenarios/16a_Black_Crystal.cfg:114
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:50
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:51
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:27
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:122
+#: Missing_Scepter/scenarios/02_Vacation.cfg:42
+#: Missing_Scepter/scenarios/18b_Fire.cfg:20
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:26
+#: Missing_Scepter/scenarios/21bb_End.cfg:92
+#: Missing_Scepter/scenarios/04b_Training.cfg:26
+#: Missing_Scepter/scenarios/16_Black_Crystal.cfg:37
+#: Missing_Scepter/scenarios/16_Black_Crystal.cfg:96
+#: Missing_Scepter/scenarios/16_Black_Crystal.cfg:113
+#: Missing_Scepter/scenarios/19_Rescue.cfg:20
+#: Missing_Scepter/scenarios/19_Rescue.cfg:41
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:24
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:21
+#: Missing_Scepter/scenarios/20_Orcs.cfg:49
+#: Missing_Scepter/scenarios/21gg_End.cfg:92
+#: Missing_Scepter/scenarios/21bg_End.cfg:95
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:26
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:26
+#: Missing_Scepter/scenarios/09_Carcyn.cfg:27
+#: Missing_Scepter/scenarios/04a_Hiring.cfg:26
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:25
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:49
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:56
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:36
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:37
+#: Missing_Scepter/scenarios/18d_Exit.cfg:19
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:102
+msgid "Civilians"
+msgstr ""
+
+#. [unit]: type=Homz Red, id=Homz
+#: Missing_Scepter/scenarios/02_Vacation.cfg:58
+msgid "Homz"
+msgstr ""
+
+#. [side]: type=Royal Guard, id=Sarge, id=Sarge
+#: Missing_Scepter/scenarios/02_Vacation.cfg:74
+msgid "good"
+msgstr ""
+
+#. [unit]: type=Master at Arms, id=Milktkins
+#: Missing_Scepter/scenarios/02_Vacation.cfg:92
+msgid "Milktkins"
+msgstr ""
+
+#. [side]: type=Assassin, id=Crinomatik
+#: Missing_Scepter/scenarios/02_Vacation.cfg:103
+msgid "bad"
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/02_Vacation.cfg:119
+msgid "Arrest the Murderer"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:465
+#: Missing_Scepter/scenarios/18c_Water.cfg:130
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:231
+#: Missing_Scepter/scenarios/11c_Pyramid.cfg:76
+#: Missing_Scepter/scenarios/18a_Ice.cfg:135
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:160
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:204
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:232
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:142
+#: Missing_Scepter/scenarios/02_Vacation.cfg:127
+#: Missing_Scepter/scenarios/18b_Fire.cfg:81
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:142
+#: Missing_Scepter/scenarios/04b_Training.cfg:152
+#: Missing_Scepter/scenarios/19_Rescue.cfg:148
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:183
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:250
+#: Missing_Scepter/scenarios/20_Orcs.cfg:253
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:236
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:200
+#: Missing_Scepter/scenarios/09_Carcyn.cfg:114
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:172
+#: Missing_Scepter/scenarios/04a_Hiring.cfg:150
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:147
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:229
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:236
+#: Missing_Scepter/scenarios/18d_Exit.cfg:58
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:206
+msgid "Death of Homz"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Missing_Scepter/scenarios/02_Vacation.cfg:131
+msgid "Death of Gangadin"
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/02_Vacation.cfg:150
+msgid ""
+"It has long been an axiom of mine that the little things are infinitely the "
+"most important. In this case, you will notice the depth which this parsley "
+"has sunk into the butter. This can only lead one to the conclusion that Mr. "
+"Crinomatik is the murderer."
+msgstr ""
+
+#. [message]: speaker=Sarge
+#: Missing_Scepter/scenarios/02_Vacation.cfg:156
+msgid ""
+"Yes, this one time I have followed your reasoning Mr. Homz.\n"
+"\n"
+"Crinomatik I arrest you in the name of the Crown."
+msgstr ""
+
+#. [message]: speaker=Crinomatik
+#: Missing_Scepter/scenarios/02_Vacation.cfg:160
+msgid ""
+"What kind of wizard are you? Solving a crime using...science. But you have "
+"not caught me unprepared. While the Great Warlock Homz was yammering about "
+"tempuratures and fat densities, my underlings were climbing into this room "
+"through the water closet."
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/02_Vacation.cfg:164
+msgid ""
+"Oh dear. No violence, gentlemen -- no violence, I beg of you! Consider the "
+"furniture!"
+msgstr ""
+
+#. [message]: speaker=Crinomatik
+#: Missing_Scepter/scenarios/02_Vacation.cfg:168
+msgid "Mugsy, Spudsy, Bulah. Get'em!"
+msgstr ""
+
+#. [unit]: type=Assassin, id=Bulah
+#: Missing_Scepter/scenarios/02_Vacation.cfg:177
+msgid "Bulah"
+msgstr ""
+
+#. [unit]: type=Ruffian, id=Mugsy
+#: Missing_Scepter/scenarios/02_Vacation.cfg:185
+msgid "Mugsy"
+msgstr ""
+
+#. [unit]: type=Thug, id=Spudsy
+#: Missing_Scepter/scenarios/02_Vacation.cfg:193
+msgid "Spudsy"
+msgstr ""
+
+#. [unit]: type=Blood Bat, id=Squeegy
+#: Missing_Scepter/scenarios/02_Vacation.cfg:219
+msgid "Squeegy the Friendly Bat"
+msgstr ""
+
+#. [message]: speaker=Squeegy
+#: Missing_Scepter/scenarios/02_Vacation.cfg:231
+msgid "Squeek. Squeek squeek."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/02_Vacation.cfg:235
+msgid "Look. It's a night chicken."
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/02_Vacation.cfg:239
+msgid ""
+"He is not for eating, Flotsom. It is a messenger bat from my brother "
+"Mycrokroft."
+msgstr ""
+
+#. [message]: speaker=Squeegy
+#: Missing_Scepter/scenarios/02_Vacation.cfg:243
+msgid ""
+"Squeek, squeek squeek squeek, squeek squeek squeek. Squeek. Squeek squeek."
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/02_Vacation.cfg:247
+msgid "Odd, Mycrokroft has invited us over to view royal vacation pictures."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/02_Vacation.cfg:251
+msgid ""
+"That sounds harmless. I could do for a change of pace vis-à-vis people "
+"throwing poison daggers at me."
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/02_Vacation.cfg:255
+msgid ""
+"I can assure you Flotsom, when Mycrokroft invites us to enjoy some prosaic "
+"activity, it only means that the threats to our lives and limbs have begun "
+"to escalate."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:12
+msgid ""
+"Mycrokroft:\n"
+"Brother, Healer Flotsom, glad you could come. It is such a rare pleasure to "
+"see you."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:18
+msgid ""
+"Homz:\n"
+"Of course, I am busy consulting the Watch on solving crimes using evidence "
+"and deductive reasoning, while you are busy running the empire."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:25
+msgid ""
+"Mycrokroft:\n"
+"Empire? Brother, that is laughable. Wesnoth is a friendly kingdom with no "
+"aspirations of dominating the entire continent much less bringing back a few "
+"breakaway hamlets."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:31
+msgid ""
+"Flotsom:\n"
+"Not even Elensefar? Ouch! Homz, I was using that shin bone to stand on."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:42
+msgid ""
+"Mycrokroft:\n"
+"Ahem. Well, in the case of Elensefar, because so many ex-Wesnothian citizens "
+"suffer under the yoke of Elensefar's power-crazed warlord, it is a moral "
+"responsibility of our Queen to rescue them from their plight. However, no "
+"immediate mission of mercy can be considered because our army is needed "
+"here. Thoughts of hiring Orcs to make a surgical strike upon the so-called "
+"leaders of Elensefar were discussed, but it was thought it would be better "
+"to keep this among us humans. \n"
+"\n"
+"To that end, her Majesty has commanded me to research a solution.\n"
+"\n"
+"Now for a picture show. "
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:49
+msgid ""
+"Mycrokroft:\n"
+"This is one taken, using coloring magic, of the Queen's recent diplomatic "
+"mission to the Northern People. The scorch marks were made by powerful fire "
+"magics. And I must add, made by someone other than Wesnoth. The statue looks "
+"to be of Dwarvish origin, thus it was not made by its lastest inhabitants."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:56
+msgid ""
+"Homz:\n"
+"Let me take a closer look at that. \n"
+"Hmmm, just as I thought. Third from the Queen's right is Boogsley, one of "
+"Morganfurzty's men."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:63
+msgid ""
+"Mycrokroft:\n"
+"Morganfurzty? Hmmm. Well, --cough-- I will have to take measures. Now look "
+"at this picture. I searched for it after seeing the first. It was taken 20 "
+"years ago."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:70
+msgid ""
+"Flotsom:\n"
+"Happier times. Ouch! Homz, I am running out shin bones. Mycrokroft, how big "
+"were those four large crystals on the statue's staff?"
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:77
+msgid ""
+"Mycrokroft:\n"
+"From her Majesty's memory, they were about the size of a newborn calf. It "
+"was once thought that it represented a real staff or wand held by someone "
+"inside the statue who defended the keep's entrance. Once inside the keep, it "
+"became apparent that the statue's staff was a mage's staff in reality. And "
+"it would have repelled the attackers, but someone had poisoned all the mages "
+"in the keep. As for why there are four crystals, Healer, what do you know "
+"about humours?"
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:84
+msgid ""
+"Flotsom:\n"
+"Now we are talking about the cutting edge of the healing sciences. The body "
+"is filled with four humours. Unusual personalities or diseases result from "
+"an excess or deficit of one or the other."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:91
+msgid ""
+"Mycrokroft:\n"
+"I think this wand may amplify a mage's humours, turning him into a mage with "
+"god-like powers. So, if we were to capture one crstal and try to use it?"
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:98
+msgid ""
+"Flotsom:\n"
+"The mage would be dead in an instant. One would need all four."
+msgstr ""
+
+#. [scenario]: id=03_Microkroft
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:107
+msgid "Pictures of a Royal Vacation"
+msgstr ""
+
+#. [side]: type=Great Mage, id=Mycrokroft
+#: Missing_Scepter/scenarios/21gb_End.cfg:110
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:141
+#: Missing_Scepter/scenarios/21bb_End.cfg:110
+#: Missing_Scepter/scenarios/21gg_End.cfg:110
+#: Missing_Scepter/scenarios/21bg_End.cfg:114
+msgid "Queens"
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:161
+msgid "Look through the queen's vacation pictures"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:165
+msgid "Not look through the queen's vacation pictures"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:187
+msgid "Barracks"
+msgstr ""
+
+#. [message]: speaker=Mycrokroft
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:197
+msgid ""
+"Then to save Wesnoth from being dominated by its breakaway cities or "
+"Northerners, you will have to retrieve all four. Might I suggest you head to "
+"the scene of the crime to search for clues."
+msgstr ""
+
+#. [message]: speaker=Mycrokroft
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:207
+msgid ""
+"There are two ways to go from here.\n"
+"        \n"
+"        (1) You can head north into the garrison and hire a party using the "
+"Queen's coin. Selection is not varied, but she has many experienced "
+"veterans. \n"
+"        \n"
+"        (2) You can head south back to town and hire your own where "
+"selection is a bit more varied. If you go that way, I will arrange with the "
+"Garrison Captain Plinthny to give them a little extra training.\n"
+"        \n"
+"        Either way, once you are on the road, you will not have too many "
+"opportunities to hire skilled mages or warriors."
+msgstr ""
+
+#. [unit]: type=Blood Bat, id=Squeeky
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:221
+msgid "Squeeky"
+msgstr ""
+
+#. [message]: speaker=Mycrokroft
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:235
+msgid ""
+"One more thing Homz, could you take Squeeky with you? He is such an "
+"observant little fellow."
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:239
+msgid "Certainly. Squeek squeek squeek."
+msgstr ""
+
+#. [message]: speaker=Squeeky
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:243
+msgid "Squeek. Squeek squeek!"
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:248
+msgid "You can understand him? All I hear is 'squeek squeek'."
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:256
+msgid ""
+"Of course I understand him. In fact, nothing he has said has sounded like "
+"'squeek squeek'.\n"
+"    \n"
+"No doubt, when you get around to recording this adventure in your "
+"notoriously accurate journals, you are just going write, 'squeek squeek' "
+"whenever Squeeky has said something. \n"
+"\n"
+"And another thing, his name is not 'Squeeky'. Here, I will spell his name "
+"out for you..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/03_Microkroft.cfg:271
+msgid "Training Field"
+msgstr ""
+
+#. [scenario]: id=04a_Hiring
+#: Missing_Scepter/scenarios/04a_Hiring.cfg:8
+msgid "Queens Second Best"
+msgstr ""
+
+#. [side]: type=Naga Myrmidon, id=Tungs
+#. [side]: type=Saurian Flanker, id=Thb
+#. [side]: type=Yeti, id=Tungs
+#. [side]: type=Dwarvish Dragonguard, id=Blasspok
+#. [side]: type=Saurian Flanker, id=Thb, description=_ Thb
+#. [side]: type=Dragoon, id=Plinthny
+#. [side]: type=Fire Dragon, id=Tungs
+#. [side]: type=Dwarvish Lord, id=Tungsten
+#. [side]: type=Dwarvish Dragonguard, id=Plagbok
+#. [side]: type=Necrophage, id=Tongue
+#. [side]: type=Lieutenant, id=Harbor
+#. [side]: type=Dwarvish Berserker, id=Blasspok
+#: Missing_Scepter/scenarios/18c_Water.cfg:42
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:72
+#: Missing_Scepter/scenarios/18a_Ice.cfg:47
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:47
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:72
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:48
+#: Missing_Scepter/scenarios/18b_Fire.cfg:41
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:47
+#: Missing_Scepter/scenarios/04b_Training.cfg:46
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:41
+#: Missing_Scepter/scenarios/20_Orcs.cfg:69
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:46
+#: Missing_Scepter/scenarios/09_Carcyn.cfg:47
+#: Missing_Scepter/scenarios/04a_Hiring.cfg:47
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:70
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:77
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:56
+msgid "Guard"
+msgstr ""
+
+#. [side]: type=Assassin, id=Stabab, id=Stabab
+#. [side]: type=Assassin, id=Greenkniif, id=Greenkniif
+#. [side]: type=Necromancer, id=Babs, id=Babs
+#. [side]: type=Assassin, id=Babs, id=Babs
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:118
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:119
+#: Missing_Scepter/scenarios/04b_Training.cfg:69
+#: Missing_Scepter/scenarios/19_Rescue.cfg:61
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:80
+#: Missing_Scepter/scenarios/04a_Hiring.cfg:70
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:116
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:123
+msgid "Targets"
+msgstr ""
+
+#. [unit]: type=Quintain, id=Target
+#: Missing_Scepter/scenarios/04b_Training.cfg:95
+#: Missing_Scepter/scenarios/04a_Hiring.cfg:96
+msgid "Target"
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/04b_Training.cfg:144
+#: Missing_Scepter/scenarios/04a_Hiring.cfg:142
+msgid "Defeat the practice dummies"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:469
+#: Missing_Scepter/scenarios/18c_Water.cfg:134
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:235
+#: Missing_Scepter/scenarios/11c_Pyramid.cfg:80
+#: Missing_Scepter/scenarios/18a_Ice.cfg:139
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:164
+#: Missing_Scepter/scenarios/16a_Black_Crystal.cfg:162
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:208
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:236
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:146
+#: Missing_Scepter/scenarios/18b_Fire.cfg:85
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:146
+#: Missing_Scepter/scenarios/04b_Training.cfg:156
+#: Missing_Scepter/scenarios/16_Black_Crystal.cfg:155
+#: Missing_Scepter/scenarios/19_Rescue.cfg:152
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:187
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:254
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:240
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:204
+#: Missing_Scepter/scenarios/09_Carcyn.cfg:118
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:176
+#: Missing_Scepter/scenarios/04a_Hiring.cfg:154
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:151
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:233
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:240
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:222
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:108
+#: Missing_Scepter/scenarios/18d_Exit.cfg:62
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:210
+msgid "Death of Squeeky"
+msgstr ""
+
+#. [message]: speaker=Plinthny
+#: Missing_Scepter/scenarios/04a_Hiring.cfg:177
+msgid ""
+"Welcome to the Weldyn Garrison. We don't have much of a selection, but they "
+"are all veterans.\n"
+"\n"
+"After you have recruited a few, why don't you give them a work-out on the "
+"'Quintains'."
+msgstr ""
+
+#. [message]: speaker=Target
+#: Missing_Scepter/scenarios/04b_Training.cfg:187
+#: Missing_Scepter/scenarios/04a_Hiring.cfg:187
+msgid "Stop that! That hurts! If you don't stop, I will mace you."
+msgstr ""
+
+#. [message]: speaker=Plinthny
+#: Missing_Scepter/scenarios/04b_Training.cfg:192
+#: Missing_Scepter/scenarios/04a_Hiring.cfg:192
+msgid "Ha, ha. The Quintains act almost human at times."
+msgstr ""
+
+#. [message]: speaker=Greenkniif
+#: Missing_Scepter/scenarios/04a_Hiring.cfg:200
+msgid ""
+"Homz, you are looking for experience? I'll give you experience: the "
+"experience of sleeping in your own grave."
+msgstr ""
+
+#. [message]: speaker=Plinthny
+#: Missing_Scepter/scenarios/04a_Hiring.cfg:204
+msgid ""
+"Assassins operating in force? in the open!? this close to Weldyn!?! That is "
+"not done. And when I have finished with you, it won't be done again. Warlock "
+"Homz, here are a few horsemen, free of charge."
+msgstr ""
+
+#. [message]: speaker=Greenkniif
+#: Missing_Scepter/scenarios/04b_Training.cfg:220
+#: Missing_Scepter/scenarios/04a_Hiring.cfg:221
+msgid "Darkness falls. Into the shadows my legion. Strike unseen."
+msgstr ""
+
+#. [message]: speaker=Greenkniif
+#: Missing_Scepter/scenarios/04b_Training.cfg:229
+#: Missing_Scepter/scenarios/04a_Hiring.cfg:230
+msgid "Darkness falls--again. Into the shadows my legion. Strike unseen."
+msgstr ""
+
+#. [message]: speaker=Squeeky
+#: Missing_Scepter/scenarios/04b_Training.cfg:266
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:460
+#: Missing_Scepter/scenarios/04a_Hiring.cfg:251
+msgid ""
+"Flotsom, please take down my final words. I regret that I have but one life "
+"to give in the defense of my Queen."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/18c_Water.cfg:216
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:395
+#: Missing_Scepter/scenarios/18a_Ice.cfg:211
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:400
+#: Missing_Scepter/scenarios/18b_Fire.cfg:183
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:255
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:465
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:582
+#: Missing_Scepter/scenarios/04a_Hiring.cfg:255
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:397
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:404
+msgid "What did Squeeky say, 'Squeek squeek squeeeeeek'?"
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/04a_Hiring.cfg:267
+msgid ""
+"They are defeated, but how did they know to find us here? This will require "
+"some thought."
+msgstr ""
+
+#. [scenario]: id=04b_Training
+#: Missing_Scepter/scenarios/04b_Training.cfg:8
+msgid "Camp Hackalot"
+msgstr ""
+
+#. [message]: speaker=Plinthny
+#: Missing_Scepter/scenarios/04b_Training.cfg:177
+msgid ""
+"Welcome to the Weldyn Garrison. I received a messenger bat from Mycrokroft "
+"and have set up your training course with these 'Quitains'."
+msgstr ""
+
+#. [message]: speaker=Greenkniif
+#: Missing_Scepter/scenarios/04b_Training.cfg:199
+msgid ""
+"Homz, you are looking for experience? I'll give you experience: the "
+"experience of sleeping in your grave."
+msgstr ""
+
+#. [message]: speaker=Plinthny
+#: Missing_Scepter/scenarios/04b_Training.cfg:203
+msgid ""
+"Assassins operating in force? in the open?! this close to Weldyn!?! That is "
+"just not done. And when I have finished with you, it won't be done again. "
+"Warlock Homz, here are a few horsemen, free of charge."
+msgstr ""
+
+#. [message]: speaker=Greenkniif
+#: Missing_Scepter/scenarios/04b_Training.cfg:246
+msgid "Darkness, shadows, strike unseen. Hurry up."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/04b_Training.cfg:270
+msgid "What's he saying? ``Squeek squeek squeeeeeek''?"
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/04b_Training.cfg:281
+msgid ""
+"It is odd that someone would know I would be here about the same I knew I "
+"would be here."
+msgstr ""
+
+#. [scenario]: id=05_Toll_Road
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:8
+msgid "Toll Road"
+msgstr ""
+
+#. [side]: type=Dragoon, id=Bog
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:75
+msgid "Swamp"
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:164
+msgid "Remove all the toll takers"
+msgstr ""
+
+#. [message]: speaker=Bog
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:202
+msgid ""
+"Welcome to the Bog Toll Road. You and your army may pass through for a mere "
+"200 gold pieces. "
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:206
+msgid ""
+"This is the Queen's road. And we are on a mission on her behalf. It is you "
+"who should be paying us."
+msgstr ""
+
+#. [message]: speaker=Ferok
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:212
+msgid ""
+"Finally, someone has come from Weldyn. These warloads are halting trade and "
+"they don't even maintain the roads.\n"
+"            \n"
+"I have a proposition for you."
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:216
+msgid "I am listening."
+msgstr ""
+
+#. [message]: speaker=Ferok
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:222
+msgid ""
+"If you let me set up in that wooden palisades, I can help you to recruit "
+"spearmen. If you let me set up in Swamp Castle, I can help you recruit "
+"spearmen and archers. If you let me set up in South Castle, I can help you "
+"recruit spearmen and archers and horsemen. If you let me set up in Small "
+"Castle, I can help you recruit spearmen and archers and horsemen and mages. "
+"If you let me set up in West Castle, I can help you recruit spearmen and "
+"archers and horsemen and mages and Fire Dragons.\n"
+"        \n"
+"<255,20,20>And the same deal if one of my men 'inspects' the throne room of "
+"the castle."
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:231
+msgid ""
+"It's a deal.\n"
+"wooden palisades : spearmen \n"
+"Swamp Castle : spearmen and archers \n"
+"South Castle : spearmen and archers and horsemen \n"
+"Small Castle : spearmen and archers and horsemen and mages \n"
+"West Castle : spearmen and archers and horsemen and mages and Fire Dragons"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:243
+msgid ""
+"This place is okay, but it's not recruiting fire dragons okay. You may now "
+"recruit spearmen."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:259
+msgid ""
+"This place is okay, but it's not recruiting fire dragons okay. You may now "
+"recruit spearmen and archers."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:275
+msgid ""
+"This place is okay, but it's not recruiting fire dragons okay. You may now "
+"recruit spearmen and archers and cavalry."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:291
+msgid ""
+"This place is okay, but it's not recruiting fire dragons okay. You may now "
+"recruit spearmen and archers and cavalry and spellcasters."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:311
+msgid "Get ready for a Barbeque. You may now recruit flaming dragons."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:568
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:589
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:610
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:631
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:293
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:298
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:476
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:334
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:234
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:295
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:302
+msgid "Found some gold!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:356
+msgid ""
+"Burial Mound\n"
+"            \n"
+"Stay away!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:374
+msgid ""
+"There is some gold here and I hear someone moving about in the tomb. Eeek! "
+"It's the undead. The undead who are heavily armed! Who keeps burying them "
+"with the best weapons?"
+msgstr ""
+
+#. [message]: speaker=Chancily
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:398
+msgid ""
+"The queen's thugs have killed o'l Boggy. I am calling in some help to deal "
+"with them."
+msgstr ""
+
+#. [unit]: type=Horseman, id=Barto
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:406
+msgid "Bart O'Bingo"
+msgstr ""
+
+#. [message]: speaker=Ferok
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:421
+msgid ""
+"Now they will be charging in. I have heard that there is a cursed crypt to "
+"the south-west. If you could get a scout to open the crypt, then maybe you "
+"could create havoc in their rear lines.\n"
+"        \n"
+"By the way, it's probably a one-way trip to whomever is sent. Might I "
+"suggest Barto here.\n"
+"\n"
+"Hey, Barto, come here, we have a job for you."
+msgstr ""
+
+#. [message]: speaker=Barto
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:425
+msgid "I hope the job does not involve riding fast, fighting, or the undead."
+msgstr ""
+
+#. [message]: speaker=Chancily
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:432
+msgid "I hear strangers. Strangers who are not paying the road toll."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:736
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:425
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:345
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:465
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:293
+msgid "What did he say, 'Squeek squeek squeeeeeek'?"
+msgstr ""
+
+#. [message]: speaker=Ferok
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:475
+msgid ""
+"Your combat aid has opened a new path for commerce. Now more wealth will "
+"roll into Weldyn. I will see to it personally that the roads are maintained "
+"and that her Majesty receives her proper share of collected taxes, even if I "
+"have to horse-whip these lazy serfs hard enough to tranmutate them into tiny "
+"lumps of gold."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:479
+msgid ""
+"Well Homz, everything seems to have worked out for, um, the Queen. If only "
+"the rest of this journey could do as well."
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/05_Toll_Road.cfg:483
+msgid ""
+"Maybe it will. I have had some thoughts to why assassins were waiting for us "
+"at the training grounds, but I can't talk about it now, there maybe someone "
+"flittering about who might overhear us."
+msgstr ""
+
+#. [scenario]: id=06_Bay_of_Pearls
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:8
+msgid "Bay of Pearls"
+msgstr ""
+
+#. [side]: type=Merman Hoplite, id=Mnemo
+#. [side]: type=Merman Hoplite, id=Mnemo, id=Mnemo
+#. [side]: type=Mermaid Diviner, id=Marcher
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:72
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:70
+#: Missing_Scepter/scenarios/20_Orcs.cfg:90
+msgid "Fish"
+msgstr ""
+
+#. [side]: type=Elvish Sylph, id=Greenk, id=Greenk
+#. [side]: type=Elvish Marshal, id=Euoia
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:97
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:97
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:107
+msgid "Forest"
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:134
+msgid "Sack the Mermen Castle"
+msgstr ""
+
+#. [message]: speaker=Plinthny
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:167
+msgid "So, are you going to help or not?"
+msgstr ""
+
+#. [option]: speaker=Plinthny
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:169
+msgid "I am not helping some bandito enslave a benign race."
+msgstr ""
+
+#. [option]: speaker=Plinthny
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:180
+msgid "Well, it will be the best thing for the fishfolk in the long run."
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:199
+msgid ""
+"Plinthny what are you doing here? And why are you leading a band of Orcs?"
+msgstr ""
+
+#. [message]: speaker=Plinthny
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:207
+msgid ""
+"Doesn't anyone in Weldyn tell anyone anything?\n"
+"            \n"
+"This is Wesnoth territory and we are taking it back from the fishes. Because "
+"the Queen does not want others to think Wesnoth is expanding its territory, "
+"I have had to hire on a few Orc tribes. Once we are done here, the break-"
+"away villages will beg the Queen to let them back in to the kingdom to "
+"protect them from the Orcs.\n"
+"\n"
+"Now, if you are apart of the Queen's forces and you do not want to be "
+"accused of treason, then I suggest you take your forces south and keep those "
+"Elves off of me while I take over the fishes' base."
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:211
+msgid "Then what? Occupy them? They will never stop resisting us."
+msgstr ""
+
+#. [message]: speaker=Plinthny
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:219
+msgid ""
+"Yes. The adults would resist, but we are going to put them to the sword. The "
+"reason why we are taking over the island is that it contains their hatchery. "
+"We can raise their young to do our bidding.\n"
+"        \n"
+"If you need more troops, try some of these orcs, they are almost "
+"housebroken.\n"
+"\n"
+"Now we have to do this quickly or they will escape with their eggs and young."
+msgstr ""
+
+#. [message]: speaker=Squeeky
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:228
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:183
+msgid "Squeek, squeek squeek squeek. Squeek squeek-squeek squeek squeek."
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:232
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:187
+msgid "Very well. Go."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:246
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:201
+msgid "Homz. Where is that bat of yours?"
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:250
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:205
+msgid ""
+"He said he knew some kin in the area who might like a change of diet. Which "
+"gives me time to outline my suspecions about him. I think he working for..."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:254
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:209
+msgid ""
+"Not Morganfurzty again, Homz. I think it is about time you knew that you are "
+"the only person who has heard or seen Morganfurzty. Even your brainier "
+"brother thinks he is a figment of your imagination. Using modern healing "
+"science, I would say your delusion was brought on by an imbalance from too "
+"much phlegm or too little of the choleric fluids. I am going to prescribe "
+"chopped gall bladder..."
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:258
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:213
+msgid ""
+"So, Morganfurzty is all in my mind? Well, maybe there is another explanation "
+"for some of Squeeky's actions. Now, quiet. Out in the darkness I hear the "
+"flutter of leathery wings and the gnashing of sharp teeth. Squeeky's friends "
+"have arrived."
+msgstr ""
+
+#. [unit]: id=Squeety, type=Blood Bat
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:262
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:217
+msgid "Squeety"
+msgstr ""
+
+#. [unit]: id=Wowei, type=Blood Bat
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:276
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:231
+msgid "Wowei"
+msgstr ""
+
+#. [unit]: type=Blood Bat, id=Nidl
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:287
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:242
+msgid "Nidl"
+msgstr ""
+
+#. [unit]: type=Blood Bat, id=Masiod
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:298
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:253
+msgid "Masiod"
+msgstr ""
+
+#. [unit]: type=Blood Bat, id=Gtsiod
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:309
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:264
+msgid "Gtsiod"
+msgstr ""
+
+#. [message]: speaker=Squeety
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:321
+msgid ""
+"<0,200,255>Squeet squeet squeet, squeet squeet. Squeet squeet squeet.\n"
+"            \n"
+"Cousin Squeeky sends his complements to Warlock Homz. Squeeky will look for "
+"more allies to join in the battle and has sent me in his place of Bat Force "
+"Commander."
+msgstr ""
+
+#. [message]: speaker=Greenk
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:328
+msgid ""
+"So, Wesnoth now employs giant blood-sucking bats and Orcs to do its bloody "
+"work. Fiends!"
+msgstr ""
+
+#. [message]: speaker=Plinthny
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:335
+msgid ""
+"We are running out of time. Here is some gold. Hire a few goblin wolf riders."
+msgstr ""
+
+#. [unit]: type=Orcish Warrior, id=Dwaba-Kukai
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:363
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:354
+msgid "Dwaba-Kukai"
+msgstr ""
+
+#. [message]: speaker=Mnemo
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:370
+msgid ""
+"We are beaten. You, warrior, take the Storm Trident and hide it so that a "
+"future generation may find it and avenge our race."
+msgstr ""
+
+#. [message]: speaker=Plinthny
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:381
+msgid ""
+"Dwaba-Kukai, I think they are going to hide the Storm Trident in the sea. "
+"See if you can find an Orc who can go down there and retrieve it."
+msgstr ""
+
+#. [message]: speaker=Dwaba-Kukai
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:385
+msgid "Certainly. All I need to do now is find an Orc who can swim."
+msgstr ""
+
+#. [message]: speaker=Squeeky
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:732
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:452
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:420
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:395
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:382
+#: Missing_Scepter/scenarios/20_Orcs.cfg:321
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:340
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:288
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:518
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:398
+msgid ""
+"Flotsom, please take down my final words. I regret that I have but one life "
+"to give..."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:457
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:399
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:387
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:523
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:403
+msgid "What's he saying? 'Squeek squeek squeeeeeek'?"
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/06_Bay_of_Pearls.cfg:409
+msgid ""
+"The whole sea is unfit to bathe in even for an Orc. Mark its colour. Look at "
+"my healer's white tunic, spotted. Out, damned spot! out, I say!"
+msgstr ""
+
+#. [scenario]: id=06a_Bay_of_Pearls
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:8
+msgid "Bay of Pearls Rescue"
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:134
+msgid "Keep the Mermen King Alive while defeating the slaver"
+msgstr ""
+
+#. [message]: speaker=Plinthny
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:167
+msgid ""
+"You would fight me? the unofficial and secret representative of the Queen's "
+"plausibly deniable wishes?"
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:171
+msgid ""
+"Although I may displease the Queen in secret, it is I who will have "
+"plausible deniability in the royal court by maintaining Wesnoth's good name "
+"by taking out a red-handed slaver."
+msgstr ""
+
+#. [message]: speaker=Greenk
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:175
+msgid ""
+"You have taken a more noble path, Warlock Homz. Some of the forest Elves "
+"will help you."
+msgstr ""
+
+#. [message]: speaker=Squeety
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:276
+msgid ""
+"<0,200,255>Squeet squeet squeet, squeet squeet. Squeet squeet squeet.\n"
+"            \n"
+"Cousin Squeeky sends his compliments to Warlock Homz. Squeeky will look for "
+"more allies to join in the battle and has sent me in his place of Bat Force "
+"Commander."
+msgstr ""
+
+#. [message]: speaker=Plinthny
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:280
+msgid ""
+"A swarm of bats! I better recruit some bat-eaters. In fact, I need to expand "
+"my training grounds."
+msgstr ""
+
+#. [message]: speaker=Greenk
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:326
+msgid ""
+"We still have not won the battle and you have wounded. Train a few shamans "
+"to help cure their injuries."
+msgstr ""
+
+#. [message]: speaker=Mnemo
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:361
+msgid ""
+"Utter defeat. Now we will be enslaved and the Wesnothians who helped us will "
+"be hunted down by their mad queen."
+msgstr ""
+
+#. [message]: speaker=Plinthny
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:365
+msgid ""
+"Dwaba-Kukai, go to the nesting ponds and start putting these small iron "
+"collars on their children."
+msgstr ""
+
+#. [message]: speaker=Dwaba-Kukai
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:369
+msgid "Certainly. In fact, I have an Orc here who likes the water..."
+msgstr ""
+
+#. [message]: speaker=Mnemo
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:397
+msgid ""
+"You have helped us defeat them. It will be awhile before they return. "
+"Perhaps if we had a powerful magic device, like the lost Storm Trident, we "
+"could discourage them from returning."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:401
+msgid "Perhaps we could find it?"
+msgstr ""
+
+#. [message]: speaker=Mnemo
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:407
+msgid ""
+"Perhaps. Can you hold your breathe for about a week? No? We'll look for it.\n"
+"        \n"
+"Maybe in the future, in the highly unlikely event you are caught in a swamp "
+"fighting Nagas, then we might be of some help. Until then, maybe one of my "
+"daughters would be of some aid to healing your fighters."
+msgstr ""
+
+#. [unit]: type=Mermaid Priestess, id=Meemosha
+#: Missing_Scepter/scenarios/06a_Bay_of_Pearls.cfg:412
+msgid "Meemosha Mnemodaughter"
+msgstr ""
+
+#. [scenario]: id=07_Elensefar
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:8
+msgid "Elensefar"
+msgstr ""
+
+#. [side]: type=Dwarvish Runemaster, id=Krinkle
+#. [side]: type=General, id=Kronmas
+#. [side]: type=General, id=Blackorbs
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:67
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:48
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:47
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:121
+msgid "Town"
+msgstr ""
+
+#. [side]: type=Orcish Slayer, id=Lunchi
+#. [side]: type=White Mage, id=Manem, id=Manem
+#. [side]: type=Orcish Slayer, id=Luchi
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:92
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:131
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:64
+msgid "Cave"
+msgstr ""
+
+#. [side]: type=Goblin Rouser, id=Bogerutt
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:166
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:80
+msgid "Wolf"
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:139
+msgid "Clear the cave for the women and children"
+msgstr ""
+
+#. [message]: speaker=Kronmas
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:190
+msgid ""
+"Conquerering army from Wesnoth, are you here to aid your Orcish friends? "
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:194
+msgid ""
+"We wish to travel further inland, but we cannot do so if these Orcs, who are "
+"no friends of Wesnoth, are laying seige to Elensefar."
+msgstr ""
+
+#. [message]: speaker=Kronmas
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:200
+msgid ""
+"Well met, rescuers of the Bay of Pearls. We would celebrate your coming with "
+"a feast day, if it we were not under seige by these foul Orcs."
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:204
+msgid ""
+"These Orcs stop us from continuing on our journey. Is there any way we may "
+"help?"
+msgstr ""
+
+#. [message]: speaker=Kronmas
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:211
+msgid ""
+"There are no boats left to travel on. The ones that have not left with "
+"evacuees were burned by the Orcs. But you could do us a small favor. These "
+"walls are too thin to hold off Orcs from eventually entering the city. "
+"However, to the north is a cave we have used in the past from seiges. "
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:215
+msgid ""
+"But it is occupied? Then I shall clear it. Afterwards your women and "
+"children can enter it and we will seal them in from the Orcs."
+msgstr ""
+
+#. [message]: speaker=Luchi
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:219
+msgid ""
+"You are not going to remove me from here in time. Our Commander will return "
+"soon, bringing enough reenforcements to annihilate you and Elensefar's "
+"forces."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:327
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:254
+msgid "Road to Carcyn"
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:267
+msgid ""
+"Look. They have left their spider farm intact. This could give us an "
+"advantage."
+msgstr ""
+
+#. [message]: speaker=Bogerutt
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:271
+msgid ""
+"We have been cut off from the north side of the river. We must cross and "
+"burn the farms before leaving, otherwise they will be too strong to conquer "
+"next year."
+msgstr ""
+
+#. [message]: speaker=Kronmas
+#: Missing_Scepter/scenarios/07_Elensefar.cfg:303
+msgid ""
+"There are still more Orc tribes on the way. Quick everyone into the caves so "
+"we may seal them."
+msgstr ""
+
+#. [scenario]: id=08_Save_the_Farm
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:8
+msgid "Elensefar Part Two"
+msgstr ""
+
+#. [unit]: type=Peasant, id=Lari
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:63
+msgid "Lari Brownbottoms"
+msgstr ""
+
+#. [unit]: type=Peasant, id=Mwo
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:77
+msgid "Mwob Mudbottoms"
+msgstr ""
+
+#. [unit]: type=Peasant, id=Curly
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:91
+msgid "Curly Roundbottoms"
+msgstr ""
+
+#. [unit]: type=Elvish Sylph, id=Yoiaie
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:121
+msgid "Yoiaie"
+msgstr ""
+
+#. [unit]: type=Elvish Champion, id=Ewoiyui
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:135
+msgid "Ewoiyui"
+msgstr ""
+
+#. [unit]: type=Elvish Sharpshooter, id=Aeiou
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:149
+msgid "Aeiou"
+msgstr ""
+
+#. [side]: type=Orcish Sovereign, id=Vlosgr
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:188
+msgid "Vlosgr"
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:224
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:210
+msgid "Defeat all enemies"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:228
+msgid "Letting the enemy enter the farm land"
+msgstr ""
+
+#. [message]: speaker=Euoia
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:266
+msgid ""
+"Monsters. These Orcs have felled a forest of our trees and sent them down "
+"river, creating a log jam around the bridges."
+msgstr ""
+
+#. [message]: speaker=Kronmas
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:270
+msgid ""
+"They mean to cross over and burn our crops in the field, leaving us to die "
+"from starvation."
+msgstr ""
+
+#. [message]: speaker=Euoia
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:274
+msgid ""
+"If we can help it, the only crossing over they will do will be to the Land "
+"of the Dead. Yoiaie, Ewoiyui, Aeiou, attack for the Forest of Wesmere!"
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:288
+msgid ""
+"Found some more gold. Flotsom, why don't you grow another batch of spiders. "
+"We won't be able to carry the spider farm with us."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:292
+msgid ""
+"We are taking the spiders with us? Tell me that when we are done retrieving "
+"this staff, we are not keeping one as a pet. Do think of Missus Hoodsun's "
+"delicate condition. You know, the condition that will keep her awake at "
+"night when she hears me shrieking in terror every time one those eight-"
+"legged dog-sized horrors tries to crawl into bed with me."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:307
+msgid "Found some more gold! This lighthouse just keeps giving."
+msgstr ""
+
+#. [message]: speaker=Squeeky
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:361
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:378
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:395
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:412
+msgid "There go the farms"
+msgstr ""
+
+#. [unit]: type=Ancient Lich, id=Morganfurzty
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:424
+msgid "Morganfurzty"
+msgstr ""
+
+#. [unit]: type=Necrophage, id=Tongue
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:438
+msgid "The Tongue"
+msgstr ""
+
+#. [message]: speaker=Kronmas
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:451
+msgid ""
+"Thanks to your help, the Orcish Army has been defeated. Now we may dig our "
+"families from out of the caves. Although, there is no hurry to do that. They "
+"should be out in about a week. They can spend the time relaxing in safety."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:455
+msgid ""
+"For the first time since we started this journey, Homz, it feels like we "
+"have done a good deed."
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:459
+msgid ""
+"Indeed. Let us travel to Carcyn and see if we can find a boat to take us up "
+"river."
+msgstr ""
+
+#. [message]: speaker=Morganfurzty
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:467
+msgid ""
+"<255,0,0>Luchi, I'm home!\n"
+"\n"
+"Where is that Orc? He was supposed to stock the larder with living fodder "
+"for my army of undead."
+msgstr ""
+
+#. [message]: speaker=Lari
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:471
+msgid "Eeeeeeeeek!"
+msgstr ""
+
+#. [message]: speaker=Tongue
+#: Missing_Scepter/scenarios/08_Save_the_Farm.cfg:475
+msgid "Oh, it'ssss ssssssstocked, Master."
+msgstr ""
+
+#. [scenario]: id=09_Carcyn
+#: Missing_Scepter/scenarios/09_Carcyn.cfg:8
+msgid "Carcyn"
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/09_Carcyn.cfg:106
+msgid "Find a ship's captain"
+msgstr ""
+
+#. [message]: speaker=Harbor
+#: Missing_Scepter/scenarios/09_Carcyn.cfg:139
+msgid ""
+"Welcome to Carcyn's harbor. You are looking to travel up the River Listra? "
+"Well, we have four captains with different cargo carrying capacities."
+msgstr ""
+
+#. [message]: speaker=Harbor
+#: Missing_Scepter/scenarios/09_Carcyn.cfg:143
+msgid ""
+"There is Captain Os. A bargain at 100 gold. However, when you get to the end "
+"of the voyage, you will not be able train anyone. So whoever is in your "
+"company now is what you will have at the final destination."
+msgstr ""
+
+#. [message]: speaker=Harbor
+#: Missing_Scepter/scenarios/09_Carcyn.cfg:148
+msgid ""
+"There is Captain Jera. Can carry anything for 500 gold--except spiders. "
+"Funny how some captains don't like those cute hairy eight-legged things "
+"running about the deck...and the walls...ceilings...dripping venom "
+"everywhere. When you get to the end of the voyage, you will be able to "
+"recruit bowmen, spearmen, and horsemen"
+msgstr ""
+
+#. [message]: speaker=Harbor
+#: Missing_Scepter/scenarios/09_Carcyn.cfg:153
+msgid ""
+"There is Captain Jear. He can carry anything for 600 gold--and he likes "
+"spiders. However, when you get to the end of the voyage, the only crew who "
+"would sign up with you will be riffraff."
+msgstr ""
+
+#. [message]: speaker=Harbor
+#: Missing_Scepter/scenarios/09_Carcyn.cfg:158
+msgid ""
+"There is Captain Gar. He can carry anything for 700 gold. You do have 700 "
+"gold, right? When you get to the end of the voyage, you will be able to "
+"recruit bowmen, spearmen, horsemen, and mages."
+msgstr ""
+
+#. [message]: speaker=Harbor
+#: Missing_Scepter/scenarios/09_Carcyn.cfg:163
+msgid "When you are ready, just step on board their vessel."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/09_Carcyn.cfg:187
+msgid "I found a gold piece!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/09_Carcyn.cfg:210
+msgid ""
+"<128,255,255>Captain Os, 100 Gold\n"
+"            \n"
+"Who you have in your party now is what you will have at the destination. "
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/09_Carcyn.cfg:229
+msgid ""
+"<255,128,255>Captain Jera, 500 Gold\n"
+"                \n"
+"Will ship  bowmen, spearmen, and horsemen, but not spiders."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/09_Carcyn.cfg:248
+msgid ""
+"<255,255,128>Captain Jear, 600 Gold\n"
+"        \n"
+"Will ship spiders, but you will have to put up with riffraff as recruits."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/09_Carcyn.cfg:267
+msgid ""
+"<220,220,220>Captain Jera, 700 Gold\n"
+"                \n"
+"Will ship bowmen, spearmen, and horsemen, mages, and your spiders."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:10
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:10
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:10
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:10
+msgid ""
+"The trip up the river was far more uneventful than it would have been if we "
+"had walked. We passed Wesmere Forest, the Ford of Abez,the same one I limped "
+"across 15 years ago, then up the River Listra, going further north than I "
+"have ever been."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:16
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:16
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:16
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:16
+msgid ""
+"There were some rapids ahead that no ship this size could go around. From "
+"our landing we can see the foothills of the Heart Mountains, the home of "
+"many Dwarven tribes. There are different sorts of marginal communities about "
+"that live in the shadows of these mountains."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:22
+msgid ""
+"There are some people, back in Weldyn, who think this has always been a "
+"wilderness. Before humans came onto this land, there used to be civilization "
+"in these parts. You can see the ruins of their outposts, guarding trade "
+"roads that lead from one buried city to some flat spot surrounded by mounds "
+"of stone. Somehow faraway humans caused a disruption that has harmed the "
+"less developed creatures."
+msgstr ""
+
+#. [scenario]: id=10a_River_Listra
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:31
+msgid "Listra with Capn Os"
+msgstr ""
+
+#. [unit]: type=Saurian Oracle, id=Zbrbtr
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:92
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:93
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:90
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:97
+msgid "Zbrbtr the All Seeing"
+msgstr ""
+
+#. [unit]: type=Saurian Soothsayer, id=Qrzpr
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:104
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:105
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:102
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:109
+msgid "Qrzpr"
+msgstr ""
+
+#. [unit]: type=Bandit, id=Martjom
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:144
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:145
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:142
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:149
+msgid "Martjom"
+msgstr ""
+
+#. [side]: type=Orcish Warlord, id=Blodgot, id=Blodgot
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:158
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:159
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:54
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:156
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:163
+msgid "Ocrses"
+msgstr ""
+
+#. [side]: type=Great Troll, id=Quartztooth, id=Quartztooth
+#. [side]: type=Great Troll, id=Greenko, id=Greenko
+#. [side]: type=Great Troll, id=Krakatoa, id=Krakatoa
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:185
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:159
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:186
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:122
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:64
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:352
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:183
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:190
+msgid "Trollz"
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:223
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:224
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:221
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:228
+msgid "Move Homz to one of the two exits in the North"
+msgstr ""
+
+#. [message]: speaker=Qrzpr
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:264
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:269
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:266
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:273
+msgid "Alarm! It is an army of sticky-fingered land-grabbing Wesnothians."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:268
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:273
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:270
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:277
+msgid ""
+"We are not here to steal. We just need to get to the Fortress of the "
+"Scepter. Really, when does a Wesnoth army come here to raid?"
+msgstr ""
+
+#. [message]: speaker=Martjom
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:272
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:277
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:274
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:281
+msgid ""
+"The answer to that is each time. And there is nothing to steal, but that "
+"does not stop anyone from robbing the place. Like the time the Elves came "
+"here and took all the Saurians' vowels."
+msgstr ""
+
+#. [message]: speaker=Thb
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:278
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:283
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:280
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:287
+msgid ""
+"The Elves did not take our vowels. But I know an invasion when I see one.\n"
+"        \n"
+"Countrysaurens, arm yourselves and repell the raiders!"
+msgstr ""
+
+#. [unit]: type=Orcish Slurbow, id=Deadeye
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:314
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:319
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:316
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:323
+msgid "Deadeye"
+msgstr ""
+
+#. [unit]: type=Orcish Slurbow, id=Mopntu
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:326
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:331
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:72
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:328
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:335
+msgid "Mopntu"
+msgstr ""
+
+#. [message]: speaker=Deadeye
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:342
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:347
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:344
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:351
+msgid "No hoomans allowed."
+msgstr ""
+
+#. [unit]: type=Orcish Slurbow, id=Deadeye
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:370
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:375
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:372
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:379
+msgid "Bargh"
+msgstr ""
+
+#. [message]: speaker=Squeeky
+#: Missing_Scepter/scenarios/18c_Water.cfg:212
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:391
+#: Missing_Scepter/scenarios/18a_Ice.cfg:207
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:396
+#: Missing_Scepter/scenarios/18b_Fire.cfg:178
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:251
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:460
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:577
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:393
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:400
+msgid ""
+"<128,128,255>Flotsom, please take down my final words. I regret that I have "
+"but one life to give in the defense...."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:420
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:413
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:410
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:428
+msgid "I say, Homz, is there any chance of you finding a way out of here?"
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:424
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:417
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:414
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:432
+msgid ""
+"There are two ways out. One through the Dwarven caves and the other over the "
+"mountains. I will try to get to one of them."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:424
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:224
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:475
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:592
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:421
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:414
+msgid "That's the last of them. Bloody work."
+msgstr ""
+
+#. [message]: speaker=Gongadin
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:428
+msgid "Yes, could we not have walked around them?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:438
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:442
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:270
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:439
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:446
+msgid "World of the Dwarves"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:455
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:459
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:283
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:456
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:463
+msgid "Frozen Pass"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:472
+#: Missing_Scepter/scenarios/10a_River_Listra.cfg:476
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:473
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:480
+msgid "Sand Garden of the Dead"
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:22
+msgid ""
+"There are some people, back in Weldyn, who think this has always been a "
+"wilderness. Before humans came onto this land, there used to be civilization "
+"in these parts. You can see the ruins of their outposts, guarding trade "
+"roads that lead from one buried city to some flat spot surrounded by mounds "
+"of stone. "
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:28
+msgid ""
+"As for the spiders, Homz thought it would be cheaper to bribe the ship's "
+"crew to keep the knowledge from Captain Jera that we loaded them on board."
+msgstr ""
+
+#. [scenario]: id=10b_River_Listra
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:37
+msgid "Listra with Capn Jera"
+msgstr ""
+
+#. [message]: speaker=Gongadin
+#: Missing_Scepter/scenarios/10b_River_Listra.cfg:418
+msgid "They got in our way. They had it coming."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:22
+msgid ""
+"There are some people, back in Weldyn, who think this has always been a "
+"wilderness. Before humans came onto this land, there used to be civilization "
+"in these parts. You can see the ruins of their outposts, guarding trade "
+"roads that lead from one buried city to some flat spot surrounded by mounds "
+"of stone."
+msgstr ""
+
+#. [scenario]: id=10c_River_Listra
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:30
+msgid "Listra with Capn Jear"
+msgstr ""
+
+#. [message]: speaker=Gongadin
+#: Missing_Scepter/scenarios/10c_River_Listra.cfg:425
+msgid ""
+"Don't feel sorry. They would thank us if they could. There was no better "
+"fate for them than to have been chopped down by Wesnoth's finest."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:22
+msgid ""
+"There are some people, back in Weldyn, who think this place has always been "
+"a wilderness. Before humans came onto this land, there used to be "
+"civilization in these parts. You can see the ruins of their outposts, "
+"guarding trade roads that lead from one buried city to some flat spot "
+"surrounded by mounds of stone."
+msgstr ""
+
+#. [scenario]: id=10d_River_Listra
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:30
+msgid "Listra with Capn Gar"
+msgstr ""
+
+#. [message]: speaker=Squeeky
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:405
+msgid "Squeek squeek squeek squeek squeek."
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/10d_River_Listra.cfg:410
+msgid ""
+"Yes, I wish there had been another way other than slaying every living thing "
+"from the river to the mountains, too. What was that about a Bat Wand kept in "
+"a high desert crypt?"
+msgstr ""
+
+#. [scenario]: id=10e_River_Listra
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:8
+msgid "Back into the Breach"
+msgstr ""
+
+#. [unit]: type=Spearman, id=Martjob
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:40
+msgid "Martjob"
+msgstr ""
+
+#. [unit]: type=Orcish Warrior, id=Meefty
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:84
+msgid "Meefty"
+msgstr ""
+
+#. [unit]: type=Orcish Grunt, id=Meeyl
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:96
+msgid "Meeyl"
+msgstr ""
+
+#. [unit]: type=Wolf Rider, id=Breyl
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:108
+msgid "Breyl"
+msgstr ""
+
+#. [unit]: type=Troll Rocklobber, id=Ignious
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:140
+msgid "Ignious"
+msgstr ""
+
+#. [unit]: type=Troll Shaman, id=Lava
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:148
+msgid "Lava"
+msgstr ""
+
+#. [unit]: type=Troll, id=Granite
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:156
+msgid "Granite"
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:175
+msgid "Move anyone to one of the two exits"
+msgstr ""
+
+#. [message]: speaker=Quartztooth
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:210
+msgid "Relight the barbecue fires! The moving feast has return."
+msgstr ""
+
+#. [message]: speaker=Squeeky
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:216
+msgid ""
+"<255,0,0>Squeek squeek squeek, Squeek.\n"
+"    \n"
+"--Now you know how a `night chicken` feels, Flotsom."
+msgstr ""
+
+#. [message]: speaker=Gongadin
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:228
+msgid ""
+"Having a night chicken with a powerful wand has made things easier for us."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/10e_River_Listra.cfg:240
+msgid "Leaving the Sand Garden of the Dead, we hope you enjoyed your stay."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:10
+msgid ""
+"A nice straight passageway. I am glad we came this way instead of freezing "
+"to death on the other. Like all main Dwarven-built city connecting passages, "
+"the floor seemed to be pitched slightly down hill, until you get to the half-"
+"way point, then it would be pitched slightly up hill. "
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:16
+msgid ""
+"Contrairy to common knowledge and common sense, the Dwarves believe the "
+"world is round. When cutting a long passage, they use a light beam instead "
+"of a level, thinking that will make it the shortest path between two points."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:22
+msgid ""
+"Of course, they do not take into account that light has weight, causing it "
+"to fall over any distance. So we must travel extra leagues on a U-shape "
+"path. At least there is plenty of room between my head and the ceiling and "
+"our surviving spiders, who like to run around up there."
+msgstr ""
+
+#. [scenario]: id=11a_Straight_Passage
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:31
+msgid "Dwarven Highway"
+msgstr ""
+
+#. [unit]: type=Dwarvish Dragonguard, id=Peltsdown
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:82
+msgid "Peltsdown"
+msgstr ""
+
+#. [side]: type=Death Knight, id=Bonerutt
+#. [side]: type=Ancient Lich, id=Yabidabimo, id=Yabidabimo
+#. [side]: type=Draug, id=Yoboseyo, id=Yoboseyo
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:108
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:69
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:77
+msgid "Bones"
+msgstr ""
+
+#. [side]: type=Nightgaunt, id=Vlosgr
+#. [side]: type=Nightgaunt, id=Shilrol, id=Shilrol
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:130
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:143
+msgid "Ghosts"
+msgstr ""
+
+#. [unit]: type=Ghost, id=Ghostie
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:150
+msgid "Ghostie"
+msgstr ""
+
+#. [side]: type=Wallman, id=Section
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:160
+msgid "Wall"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallmana
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:175
+msgid "Wallmana"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallmanb
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:185
+msgid "Wallmanb"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallman2411
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:195
+msgid "Wallman2411"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallman2511
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:205
+msgid "Wallman2511"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallman1923
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:215
+msgid "Wallman1923"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallmanc
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:225
+msgid "Wallmanc"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallmand
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:235
+msgid "Wallmand"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallmane
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:245
+msgid "Wallmane"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallmanf
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:255
+msgid "Wallmanf"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallmang
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:265
+msgid "Wallmang"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallmanh
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:275
+msgid "Wallmanh"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallmani
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:285
+msgid "Wallmani"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallmanj
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:295
+msgid "Wallmanj"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallmank
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:306
+msgid "Wallmank"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallmanl
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:316
+msgid "Wallmanl"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallmanm
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:326
+msgid "Wallmanm"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wahlmann
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:336
+msgid "Wahlmann"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallmano
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:346
+msgid "Wallmano"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallmanp
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:356
+msgid "Wallmanp"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wahlmanq
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:366
+msgid "Wahlmanq"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallmanr
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:376
+msgid "Wallmanr"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wahlmans
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:386
+msgid "Wahlmans"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wahlmant
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:396
+msgid "Wahlmant"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallmanu
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:406
+msgid "Wallmanu"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wahlmanv
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:416
+msgid "Wahlmanv"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wahlmanw
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:426
+msgid "Wahlmanw"
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:453
+msgid "Help the Dwarves"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:457
+msgid "Death of Dwarf Kringle"
+msgstr ""
+
+#. [message]: speaker=Peltsdown
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:499
+msgid ""
+"What do we have here? Someone who has cleared out the Orcs at the opening of "
+"this passage. Our thanks. But there are a few Orcs lurking nearby. Maybe if "
+"you would take care of them, then our leader might lend you some dwarves to "
+"help you through the caves, which are blocked a little ways in-cave."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:503
+msgid "In-cave? What is an 'in-cave'?"
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:507
+msgid "We would be glad to help. What is going on."
+msgstr ""
+
+#. [message]: speaker=Peltsdown
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:515
+msgid ""
+"To the north is a settlement being beseiged by undead walking through a deep "
+"water channel. We can't get to them, yet.\n"
+"\n"
+"There is a mysterious passageway that keeps rebuilding its own blockage.\n"
+"\n"
+"And ghosts are popping out everywhere, but we can't find the source for "
+"that. In fact, there is one now. HEY, GHOSTY, GET OVER HERE!"
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:519
+msgid "Well, Flotsom, let's get those Orcs, first."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:529
+msgid "You may now recruit Dwarish Fighters"
+msgstr ""
+
+#. [message]: speaker=Krinkle
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:544
+msgid "I think you may need some more help"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:548
+msgid "You may now recruit Dwarish Thunderers"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:656
+msgid "Found a lot of gold!"
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:677
+msgid "I guess we found those pesky ghosts' hideout"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:712
+msgid "ROGUE TOURISTS GO HOME"
+msgstr ""
+
+#. [message]: speaker=Krinkle
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:722
+msgid ""
+"One of the baddies still lives. Maybe you should go home and leave the "
+"cleaning up to us."
+msgstr ""
+
+#. [message]: speaker=Krinkle
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:747
+msgid ""
+"At least this end of the main cave passage is clear of unwanted guests. I "
+"don't know where all these undead are coming from. They appeared about a "
+"month ago and are heading in the same direction you are going. I think you "
+"will need stouter troops ahead to get you to the Scepter Fortress, as you "
+"called our old outpost."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/11a_Straight_Passage.cfg:751
+msgid "You may now recruit our Dwarvish Guardsman"
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:10
+msgid ""
+"We picked the icy over-mountain route. That may be our last stupid "
+"descision. "
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:16
+msgid ""
+"You would think in a world with empty forests and green pastures and Queens "
+"looking to include more citizens in her realm, no one would chose to live in "
+"such desolation. Yet, on going through the pass, we have come across a real "
+"crowd."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:22
+msgid ""
+"We can hear a woman in the distance shouting for help. It's rather "
+"convenient we happened to be around."
+msgstr ""
+
+#. [scenario]: id=11b_Frozen
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:30
+msgid "Frozen Trail"
+msgstr ""
+
+#. [unit]: type=Sergeant, id=Tastyfz
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:70
+msgid "Tastyfz"
+msgstr ""
+
+#. [unit]: type=Longbowman, id=Chuey
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:80
+msgid "Chuey"
+msgstr ""
+
+#. [unit]: type=Bowman, id=Rowg
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:90
+msgid "Rowg"
+msgstr ""
+
+#. [unit]: type=Outlaw, id=Pago
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:100
+msgid "Pago"
+msgstr ""
+
+#. [side]: type=Yeti, id=Plint
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:112
+msgid "Snowmen"
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:196
+msgid "Move the party out of the icy wilderness."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:237
+msgid ""
+"Oh, good sirs! Gentlemen! Please save me from being eaten by that foul Yeti."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:242
+msgid "Do you hear that Homz? Off to the right."
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:246
+msgid "I see her. Does she looks like the queen to you?"
+msgstr ""
+
+#. [unit]: id=Gwab, type=Yeti
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:267
+msgid "Gwab"
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:276
+msgid "She does not look as pretty as she did from afar. Eh, Flotsom?"
+msgstr ""
+
+#. [message]: speaker=Manem
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:290
+msgid ""
+"Humans! From Wesnoth, right? Usually our visitors to our mage college come "
+"through the Dwarven Highway. Much safer. I rarely venture far from the "
+"heated cave entrance. Which brings me to making a request."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:294
+msgid "We would be delighted to help, Madam."
+msgstr ""
+
+#. [message]: speaker=Manem
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:298
+msgid ""
+"There is a village by a frozen lake nearby where I have seen a girl waving "
+"and calling out. I wonder if you could travel there and see how those "
+"villagers fare?"
+msgstr ""
+
+#. [unit]: id=Bobby, type=Sea Serpent
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:374
+msgid "Bobby"
+msgstr ""
+
+#. [message]: speaker=Bobby
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:383
+msgid "RRRROOOAORRFFF"
+msgstr ""
+
+#. [message]: speaker=Gongadin
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:387
+msgid "At least it is not a Yeti."
+msgstr ""
+
+#. [message]: speaker=Manem
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:401
+msgid ""
+"Oh, she was just an illusion. One of the spellcaster students must of made "
+"it in order to feed his pet sea serpent. Sorry about that.\n"
+"            \n"
+"--to herself-- You probably would have spotted the illusion if you had gone "
+"to a good mage school."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/11b_Frozen.cfg:405
+msgid "You may now recruit spellcasters."
+msgstr ""
+
+#. [scenario]: id=11c_Pyramid
+#: Missing_Scepter/scenarios/11c_Pyramid.cfg:8
+msgid "Pyramid"
+msgstr ""
+
+#. [side]: type=Death Knight, id=Mummy
+#: Missing_Scepter/scenarios/11c_Pyramid.cfg:43
+msgid "Mummy"
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/11c_Pyramid.cfg:68
+msgid "Move party to the exit"
+msgstr ""
+
+#. [event]
+#: Missing_Scepter/scenarios/11c_Pyramid.cfg:98
+msgid "Should $unit.name pick up the Bat Wand?"
+msgstr ""
+
+#. [event]
+#: Missing_Scepter/scenarios/11c_Pyramid.cfg:98
+msgid "Only blood-sucking winged mammals can use this item."
+msgstr ""
+
+#. [object]
+#: Missing_Scepter/scenarios/11c_Pyramid.cfg:100
+msgid "Bat Wand"
+msgstr ""
+
+#. [object]
+#: Missing_Scepter/scenarios/11c_Pyramid.cfg:109
+msgid ""
+"<255,0,255>BAT WAND\n"
+"\n"
+"Na na na na na na na na\n"
+"Bat Wand!\n"
+"\n"
+"\n"
+"The one and only Bat Wand can shoot bolts of lightning from a bat."
+msgstr ""
+
+#. [effect]: type=fire
+#: Missing_Scepter/scenarios/11c_Pyramid.cfg:113
+msgid "bat wand"
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/11c_Pyramid.cfg:136
+msgid "I don't see anything of interest. Do you, Homz?"
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/11c_Pyramid.cfg:140
+msgid ""
+"We might as well leave before nightfall. There might really be walking dead "
+"around."
+msgstr ""
+
+#. [unit]: type=Nightgaunt, id=Kasper
+#: Missing_Scepter/scenarios/11c_Pyramid.cfg:155
+msgid "Kasper the Angry Ghost"
+msgstr ""
+
+#. [message]: speaker=Kasper
+#: Missing_Scepter/scenarios/11c_Pyramid.cfg:167
+msgid "Boo!"
+msgstr ""
+
+#. [message]: speaker=Mummy
+#: Missing_Scepter/scenarios/11c_Pyramid.cfg:171
+msgid "You have stayed after sunset, thus you have forfeited your lives."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/11c_Pyramid.cfg:185
+msgid "<220,220,220>Leaving High Desert"
+msgstr ""
+
+#. [scenario]: id=12_Rest_Stop
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:8
+msgid "Shangra La"
+msgstr ""
+
+#. [side]: type=Necromancer, id=Charo
+#. [side]: type=Orcish Slayer, id=Charw
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:96
+#: Missing_Scepter/scenarios/20_Orcs.cfg:115
+msgid "Eaters"
+msgstr ""
+
+#. [side]: type=Giant Mudcrawler, id=Blob, id=Blob
+#. [side]: type=Orcish Warlord, id=Blob
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:123
+#: Missing_Scepter/scenarios/20_Orcs.cfg:140
+msgid "blob"
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:152
+msgid "Defeat Necromancer Charo"
+msgstr ""
+
+#. [unit]: id=alJodk, type=Giant Mudcrawler
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:178
+msgid "al Jodk"
+msgstr ""
+
+#. [unit]: id=alMok, type=Giant Mudcrawler
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:186
+msgid "al Mok"
+msgstr ""
+
+#. [message]: speaker=Blasspok
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:204
+msgid ""
+"The heroes of the main tunnel's eastern terminal, welcome to Dwarfra-la."
+msgstr ""
+
+#. [message]: speaker=Blasspok
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:210
+msgid ""
+"Welcome to Dwarfra-la. I had heard someone came through the mountain pass. "
+"What was the matter, don't like tunnels?"
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:216
+msgid "What is this place?"
+msgstr ""
+
+#. [message]: speaker=Blasspok
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:222
+msgid ""
+"This is the world famous ventilation shaft Dwarfra-la. Long ago, it was a "
+"hole in the middle of the Heart Mountains. After digging water channels and "
+"vents deep into the ground, it has become a green valley with a climate like "
+"that of the tropical latitudes. (ed. note: latitudes is a term from the "
+"defunct Dwarven world shape theory)\n"
+"\n"
+"I thought everyone has heard of this place."
+msgstr ""
+
+#. [message]: speaker=Charo
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:226
+msgid "I had heard of it."
+msgstr ""
+
+#. [message]: speaker=Blasspok
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:230
+msgid ""
+"Oh, that's the other thing. The dead have been raised and marched here. "
+"There are two groups: the skeletons, who are plentiful but are not "
+"inexhaustable; and the flesh eaters, who are inexhaustable in resources. If "
+"you want to get out of this valley, you must defeat the flesh eaters' master."
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:234
+msgid "What are those blobs moving about?"
+msgstr ""
+
+#. [message]: speaker=Blasspok
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:238
+msgid ""
+"They are coming out of the thermal vent. Usually the underground strainer "
+"stops them, but we have not done any maintenance since the dead have "
+"arrived. I would let the dead ones attack them for us."
+msgstr ""
+
+#. [message]: speaker=Blasspok
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:245
+msgid ""
+"We have a little surprise for them. The surrounding mountains are too high "
+"for gryphons to fly over. Not enough air for their wings to catch. So we "
+"walked a whole troop through the caves."
+msgstr ""
+
+#. [unit]: id=Kaprockor, type=Gryphon Master
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:249
+msgid "Kaprockor"
+msgstr ""
+
+#. [unit]: id=Bronos, type=Gryphon Rider
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:262
+msgid "Bronos"
+msgstr ""
+
+#. [unit]: id=Grogtosk, type=Gryphon Rider
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:275
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:314
+msgid "Grogtosk"
+msgstr ""
+
+#. [unit]: id=Orockor, type=Gryphon Master
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:288
+msgid "Orockor"
+msgstr ""
+
+#. [unit]: id=Kronoss, type=Gryphon Rider
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:301
+msgid "Kronoss"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:330
+msgid ""
+"In the darkness, the sound of leathery wings can be heard in the distance."
+msgstr ""
+
+#. [message]: speaker=Kaprockor
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:335
+msgid "Bats! I was not expecting that to happen."
+msgstr ""
+
+#. [unit]: id=Ag, type=Naga Warrior
+#. [unit]: id=Ag, type=Wolf
+#. [unit]: id=Ag, type=Dread Bat
+#: Missing_Scepter/scenarios/18c_Water.cfg:61
+#: Missing_Scepter/scenarios/18a_Ice.cfg:66
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:339
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:325
+msgid "Ag"
+msgstr ""
+
+#. [unit]: id=Bg, type=Vampire Bat
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:351
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:337
+msgid "Bg"
+msgstr ""
+
+#. [unit]: id=Cg, type=Vampire Bat
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:359
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:345
+msgid "Cg"
+msgstr ""
+
+#. [unit]: id=Dg, type=Dread Bat
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:367
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:353
+msgid "Dg"
+msgstr ""
+
+#. [unit]: id=Eg, type=Vampire Bat
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:379
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:365
+msgid "Eg"
+msgstr ""
+
+#. [unit]: id=Fg, type=Vampire Bat
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:387
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:373
+msgid "Fg"
+msgstr ""
+
+#. [unit]: id=Gg, type=Dread Bat
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:395
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:381
+msgid "Gg"
+msgstr ""
+
+#. [message]: speaker=Blasspok
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:410
+msgid "We are losing. Here is some gold. Hire a few Dwarvish Fighters."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:471
+msgid "Now we finish with Charo."
+msgstr ""
+
+#. [message]: speaker=Charo
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:484
+msgid ""
+"I may have lost this battle, but I have held you in place while my master "
+"has continued on his path to victory.\n"
+"\n"
+"Don't forget to raise me from the dead, Morga..."
+msgstr ""
+
+#. [unit]: type=Elder Mage, id=Mycrokroft
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:489
+msgid "Mycrokroft"
+msgstr ""
+
+#. [message]: speaker=Mycrokroft
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:504
+msgid "Morka. So, now we have a name to who is behind this."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:509
+msgid ""
+"Mycrokroft! Something must have you worried. Without you pulling the strings "
+"in Weldyn, won't the empire fall?"
+msgstr ""
+
+#. [message]: speaker=Mycrokroft
+#: Missing_Scepter/scenarios/12_Rest_Stop.cfg:513
+msgid ""
+"Yes Flotsom, your sardonic estimate of my importance is correct. But the "
+"report of all these dead wandering toward the Scepter Fortess has lead me to "
+"believe there may not be an empire to pull strings for if steps are not "
+"immediately taken. Quickly, let us go the Scepter Fortress and I will "
+"explain on the way."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:12
+msgid ""
+"Mycrokroft:\n"
+"Pack animals. An intrinsic problem with the scepter is that its designers "
+"did not use pack animals. There weren't any humans about to inform them "
+"differently. Look around any of their livable cave systems and you find food "
+"and shelter and water lying about."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:19
+msgid ""
+"Mycrokroft:\n"
+"It was an alien concept to them of loading tons of equipment and food onto "
+"the backs of dumb animals, then marching hundreds of leagues to somewhere "
+"else to either sell the food and equipment or take food or equipment from "
+"whoever was around at the end of the journey. However, creating a defense "
+"from dragons, a real danger in those days, would have been within their "
+"mental grasp. Thus the scaled-up statue wand."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:25
+msgid ""
+"Homz:\n"
+"The picture of the wand I saw the statue holding, it would have been "
+"difficult to carry around on one's own shoulder."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:32
+msgid ""
+"Mycrokroft:\n"
+"It does not tax the imagination of people who are used to supply trains to "
+"come up with a working concept of a mobile city destroying wand."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:38
+msgid ""
+"Flotsom:\n"
+"And what if it were to fall into the wrong hands..."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:45
+msgid ""
+"Mycrokroft:\n"
+"Healer Flotsom, any hands holding this device would be the wrong hands. "
+"Eventually, its power would possess its own possessor. To have it, would be "
+"to use it."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:52
+msgid ""
+"Homz:\n"
+"Truly it's a wand of malevolent destructiveness. You are not here to rescue "
+"it on the behalf of Queen Asheviere are you?"
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:59
+msgid ""
+"Mycrokroft:\n"
+"That is correct. We must find out what happened to the fortress scepter, "
+"track it down, and destroy its crystals. The reason why I came in person is "
+"because of these undead. They are another party on the same search, and we "
+"cannot allow them to possess even one stone."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:66
+msgid ""
+"Flotsom:\n"
+"Why? Without all four stones, the wand would cause such an imbalance in the "
+"mage's humour fluids that he would die instantly."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:73
+msgid ""
+"Mycrokroft:\n"
+"My good healer, the dead have no fluids to imbalance."
+msgstr ""
+
+#. [scenario]: id=13_Scepter_Fortress
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:82
+msgid "Scepter Fortress"
+msgstr ""
+
+#. [side]: type=Death Knight, id=Chocobane, id=Chocobane
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:122
+msgid "dead"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallman1510
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:147
+msgid "Wallman1510"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallman1403
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:157
+msgid "Wallman1403"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallman2110
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:167
+msgid "Wallman2110"
+msgstr ""
+
+#. [unit]: type=Wallman, id=Wallman2107
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:177
+msgid "Wallman2107"
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:198
+msgid "Find clues"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Missing_Scepter/scenarios/18c_Water.cfg:142
+#: Missing_Scepter/scenarios/18a_Ice.cfg:147
+#: Missing_Scepter/scenarios/16a_Black_Crystal.cfg:166
+#: Missing_Scepter/scenarios/18b_Fire.cfg:93
+#: Missing_Scepter/scenarios/16_Black_Crystal.cfg:159
+#: Missing_Scepter/scenarios/19_Rescue.cfg:160
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:262
+#: Missing_Scepter/scenarios/20_Orcs.cfg:257
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:212
+#: Missing_Scepter/scenarios/18d_Exit.cfg:70
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:218
+msgid "Death of Mycrokroft"
+msgstr ""
+
+#. [message]: speaker=Mycrokroft
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:260
+msgid ""
+"Here is the fortress entrance. You can see it is a tight fit across from the "
+"guardian statue. It is getting dark, so let's find a place clear of corpses "
+"left from the sacking and camp for the night."
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:268
+msgid ""
+"Do you recall that picture of the Queen, Flotsom? There seems to be a corpse "
+"lying where it would have been seen in the picture. Not to mention, our army "
+"would have tidied the place up."
+msgstr ""
+
+#. [unit]: id=Ikpkkakkalx, type=Revenant
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:346
+msgid "Ikpkkakkalx"
+msgstr ""
+
+#. [message]: speaker=Ikpkkakkalx
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:354
+msgid "K'sk ch't q,x!"
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:358
+msgid "Brilliant Homz! Another mystery solved."
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:419
+msgid ""
+"The rubbish tip, always a good place to search for the little things that "
+"can crack a case. Why look, our troops did clean up after themselves. "
+"Further down is the refuge of the fortress's former occupants...and in "
+"between..."
+msgstr ""
+
+#. [message]: speaker=Mycrokroft
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:423
+msgid ""
+"Rubbish from Elves, Orcs, Dwarves, and Saurians all mixed together. They did "
+"not come here one at a time, they were here together. Facinating. I did not "
+"know they could be in the same room without immediate violence. Here they "
+"are cooperating."
+msgstr ""
+
+#. [message]: speaker=Gongadin
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:428
+msgid "As though they had a common enemy."
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:432
+msgid ""
+"Yes, but not the common enemy they thought they had. This Lich Morka is the "
+"certain and present danger to them, while Wesnoth is merely the present "
+"danger to other humans."
+msgstr ""
+
+#. [message]: speaker=Mycrokroft
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:436
+msgid ""
+"They probably divided the crystal to match their race's weakness. Elves-"
+"Sanguine would want the Black Crystal; orcs-chorelic, Green Crystal; dwarves-"
+"melancholic, Red Crystal; saurians-phlegmatic, Yellow Crystal. I propose we "
+"split up now and each destroy the crystal that matches our desposition. I "
+"will go after the Black Crystal."
+msgstr ""
+
+#. [message]: speaker=Gongadin
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:441
+msgid "Yellow Crystal"
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:445
+msgid "Red Crystal"
+msgstr ""
+
+#. [unit]: type=Greencrystal, id=Greencrystal
+#. [scenario]: id=20_Orcs
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/20_Orcs.cfg:27
+#: Missing_Scepter/scenarios/20_Orcs.cfg:188
+#: Missing_Scepter/scenarios/13_Scepter_Fortress.cfg:449
+msgid "Green Crystal"
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:10
+msgid ""
+"By observing foot tracks, we determined the nearest crystal was back with "
+"the Dwarves in Dwarfra-la. They had had the Red Crystal all this time. Now, "
+"I would be the first to confront a holder of a crystal. I just hope I do not "
+"have to make war on the Dwarves to get it."
+msgstr ""
+
+#. [scenario]: id=14_Red_Crystal
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:18
+msgid "Red"
+msgstr ""
+
+#. [side]: type=Necromancer, id=Sharko, id=Sharko
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:103
+msgid "Ghosties"
+msgstr ""
+
+#. [side]: type=Merman Hoplite, id=Mnemoson, id=Mnemoson
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:130
+msgid "fish"
+msgstr ""
+
+#. [unit]: id=Chia, type=Mermaid Diviner
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:153
+msgid "Chia"
+msgstr ""
+
+#. [unit]: id=Wall1415, type=Superwallman
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:164
+msgid "Wall1415"
+msgstr ""
+
+#. [unit]: id=Wall1515, type=Superwallman
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:175
+msgid "Wall1515"
+msgstr ""
+
+#. [unit]: id=Wall1614, type=Superwallman
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:186
+msgid "Wall1614"
+msgstr ""
+
+#. [unit]: id=Redcrystal, type=Redcrystal
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:197
+msgid "Sanguine Crystal"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:218
+msgid "Allow the undead to touch the crystal"
+msgstr ""
+
+#. [message]: speaker=Blasspok
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:235
+msgid ""
+"The dead ones want the Sanguine Crystal. They are welcome to it. It is "
+"having some effects on us. For one thing, the only fighters we have are "
+"berserkers. All other specialties cannot remember their old trade."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:239
+msgid ""
+"Let's not give it to them just yet. If they get their fleshless hands on it, "
+"they will overrun the world--flat or ball-shaped. I am here to destroy it "
+"before that can happen."
+msgstr ""
+
+#. [message]: speaker=Blasspok
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:243
+msgid ""
+"Sounds good. I wish I could think on it, but I am under its influence. Well, "
+"UP AXES, HACK AWAY!"
+msgstr ""
+
+#. [message]: speaker=Mnemoson
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:253
+msgid ""
+"Not so fast. We can use this crystal to overthrow the murderous slavers in "
+"the Bay of Pearls. We found the Storm Trident, but it was not in time to "
+"save us. If you don't let us have this crystal, you are dooming our families "
+"to slavery."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:257
+msgid ""
+"It won't do you any good to have it. Now that the dead search for it, you "
+"won't be able to hide it from those who do not breathe. I promise you, when "
+"we destroy it, we will have an insider to Asheviere's court, who is a master "
+"at subtle control of the empire, set in motion a rescue of the Bay of "
+"Pearls' merman."
+msgstr ""
+
+#. [message]: speaker=Mnemoson
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:261
+msgid "It is a little late for that. Up tridents!"
+msgstr ""
+
+#. [message]: speaker=Mnemoson
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:267
+msgid ""
+"Not so fast. We can use this crystal to overthrow the murderous slavers in "
+"the Bay of Pearls, one of whom is standing right there."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:271
+msgid ""
+"It won't do you any good to have it. Look what it does to the Dwarves. I "
+"promise you, when we destroy it, we will have an insider to Asheviere's "
+"court, who is a master at subtle control of the empire, set in motion a "
+"rescue of the Bay of Pearls' merman."
+msgstr ""
+
+#. [message]: speaker=Mnemoson
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:275
+msgid "Are we to take the word of a slaver? Up tridents!"
+msgstr ""
+
+#. [message]: speaker=Mnemoson
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:290
+msgid ""
+"Enough. I cannot war on allies. Before we leave, Shedskals, Midsla, cause a "
+"distraction by swimming underground to where the boney ones have a castle "
+"and use your tridents to good effect. Everyone else retreat."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:320
+msgid ""
+"In the darkness, the sound of leathery wings can be heard very close by."
+msgstr ""
+
+#. [unit]: id=Hg, type=Vampire Bat
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:393
+msgid "Hg"
+msgstr ""
+
+#. [unit]: id=Ig, type=Vampire Bat
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:401
+msgid "Ig"
+msgstr ""
+
+#. [unit]: id=Shedskals, type=Merman Hoplite
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:409
+msgid "Shedskals"
+msgstr ""
+
+#. [unit]: id=Midlsa, type=Mermaid Priestess
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:421
+msgid "Midlsa"
+msgstr ""
+
+#. [message]: speaker=Midlsa
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:433
+msgid "Surprise!"
+msgstr ""
+
+#. [message]: speaker=Blasspok
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:451
+msgid "I can think clearly now. Let's recruit some Dwarvish Fighters."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:502
+msgid "Ack! They got their boney hands on the crystal. We are doomed."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/14_Red_Crystal.cfg:540
+msgid ""
+"We are finished here. Quick, gather together some veterans to march down to "
+"the Swamp of Dread to help Gongadin. We may get there in time to alter the "
+"battle."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:10
+msgid ""
+"By luck, we have arrived in the dry season. We can walk to where the "
+"saurians are keeping the chorelic wand crystal. Nearby naga tribes want the "
+"crystal, and no doubt the undead are in the area, but they are not going to "
+"stop us."
+msgstr ""
+
+#. [scenario]: id=15_Yellow_Crystal
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:18
+msgid "Swamps of Dread"
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:100
+msgid "Destroy the Yellow Crystal"
+msgstr ""
+
+#. [objective]: condition=lose
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:104
+msgid "Letting the Undead Touch the Yellow Crystal"
+msgstr ""
+
+#. [side]: type=Naga Myrmidon, id=Sorssisps
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:138
+msgid "Lake"
+msgstr ""
+
+#. [side]: type=Naga Myrmidon, id=Spsissros
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:160
+msgid "Pond"
+msgstr ""
+
+#. [side]: type=Saurian Flanker, id=Tjpz
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:183
+msgid "Tjpz"
+msgstr ""
+
+#. [unit]: id=Yellowcrystal, type=Yellowcrystal
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:202
+msgid "Yellow Choleric Crystal"
+msgstr ""
+
+#. [side]: type=Lich, id=Slosgr
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:212
+msgid "Slosgr"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:242
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:298
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:354
+msgid ""
+"There are dead humanoids lying about in here. Umm, moving dead humanoids "
+"with really good weapons."
+msgstr ""
+
+#. [unit]: id=Dyg, type=Banebow
+#. [unit]: id=Dygu, type=Banebow
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:246
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:302
+msgid "Dyg"
+msgstr ""
+
+#. [unit]: id=Tryg, type=Bone Shooter
+#. [unit]: id=Trygu, type=Bone Shooter
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:258
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:314
+msgid "Tryg"
+msgstr ""
+
+#. [unit]: id=Tosn, type=Bone Shooter
+#. [unit]: id=Tosnu, type=Bone Shooter
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:270
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:326
+msgid "Tosn"
+msgstr ""
+
+#. [unit]: id=Capser, type=Wraith
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:358
+msgid "Capser the Angry Ghost"
+msgstr ""
+
+#. [message]: speaker=Squeeky
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:385
+msgid "Squeek squeek squeek squeek squeek. Squeek, squeek squeek!"
+msgstr ""
+
+#. [message]: speaker=Gongadin
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:390
+msgid ""
+"Squeeky! You have arrived with some troops. That's a good thing, seeing how "
+"few wish to join to fight in what they think is a Wesnoth cause."
+msgstr ""
+
+#. [message]: speaker=Recruiter
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:394
+msgid ""
+"I'll say. You don't mind if we use convicts? Or the insane? Or are not "
+"convicted, but are committing a crime as we speak? Or...you know what, just "
+"don't ask."
+msgstr ""
+
+#. [message]: speaker=Blackorbs
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:399
+msgid ""
+"So, the sticky-fingered Wesnothians have returned. Looks like you did not "
+"learn anything from 15 years ago."
+msgstr ""
+
+#. [message]: speaker=Blackorbs
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:412
+msgid ""
+"The dead are here. I think I will collapse this bridge so that I am only "
+"fighting one enemy."
+msgstr ""
+
+#. [message]: speaker=Tjpz
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:426
+msgid ""
+"You should have burned that bridge. Now it is floating about like a pontoon."
+msgstr ""
+
+#. [unit]: id=Deyg, type=Merman Fighter
+#. [unit]: id=Deyg, type=Merman Netcaster
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:455
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:515
+msgid "Deyg"
+msgstr ""
+
+#. [unit]: id=Teryg, type=Merman Netcaster
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:467
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:527
+msgid "Teryg"
+msgstr ""
+
+#. [unit]: id=Tlosne, type=Merman Netcaster
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:479
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:539
+msgid "Tlosne"
+msgstr ""
+
+#. [unit]: id=Splashosne, type=Mermaid Diviner
+#. [unit]: id=Splashosne, type=Merman Javelineer
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:491
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:551
+msgid "Splashosne"
+msgstr ""
+
+#. [message]: speaker=Splashosne
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:503
+msgid "We have come to pay our debt finless ones."
+msgstr ""
+
+#. [message]: speaker=Splashosne
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:563
+msgid "Butchers of the Bay of Pearls, do you remember us?"
+msgstr ""
+
+#. [message]: speaker=Slosgr
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:624
+msgid "<255,0,0>HOW THOUGHTFUL. SOMEONE HAS GIVEN ME A FREE BRIDGE."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:643
+msgid "Hey, they keep gold in this lighthouse, too."
+msgstr ""
+
+#. [message]: speaker=Squeeky
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:659
+msgid ""
+"Gongadin, please take down my final words. I regret that I have but one life "
+"to give..."
+msgstr ""
+
+#. [message]: speaker=Mycrokroft
+#. [message]: speaker=Gongadin
+#: Missing_Scepter/scenarios/16a_Black_Crystal.cfg:195
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:664
+msgid "Certainly, let me write that down."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:683
+msgid "Bahhaha! You are doomed!"
+msgstr ""
+
+#. [message]: speaker=Gongadin
+#: Missing_Scepter/scenarios/15_Yellow_Crystal.cfg:711
+msgid ""
+"That was easier than I thought. Mycrokroft is too far away, but maybe we can "
+"help Warlock Homz."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/16_Black_Crystal.cfg:10
+msgid ""
+"I have tracked the black wand crystal to the Evish Forest of Lintanir. "
+"Across the river stands an ancient forest like a wall. Somewhere in there is "
+"the crystal. The Queen has loaned me a few of her best halberdiers. May they "
+"be enough."
+msgstr ""
+
+#. [scenario]: id=16_Black_Crystal
+#: Missing_Scepter/scenarios/16_Black_Crystal.cfg:18
+msgid "Lintanir_Forest"
+msgstr ""
+
+#. [unit]: type=Master at Arms, id=Fiddleton
+#: Missing_Scepter/scenarios/16a_Black_Crystal.cfg:44
+#: Missing_Scepter/scenarios/16_Black_Crystal.cfg:54
+msgid "Clarence Pondsworthy Fiddleton"
+msgstr ""
+
+#. [unit]: type=Halberdier, id=Chopper
+#: Missing_Scepter/scenarios/16a_Black_Crystal.cfg:54
+#: Missing_Scepter/scenarios/16_Black_Crystal.cfg:64
+msgid "Chopper"
+msgstr ""
+
+#. [unit]: type=Halberdier, id=Axey
+#: Missing_Scepter/scenarios/16a_Black_Crystal.cfg:64
+#: Missing_Scepter/scenarios/16_Black_Crystal.cfg:74
+msgid "Axey"
+msgstr ""
+
+#. [unit]: type=Halberdier, id=Hackwell
+#: Missing_Scepter/scenarios/16a_Black_Crystal.cfg:74
+#: Missing_Scepter/scenarios/16_Black_Crystal.cfg:84
+msgid "Hackwell"
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/16a_Black_Crystal.cfg:154
+#: Missing_Scepter/scenarios/16_Black_Crystal.cfg:147
+msgid "Destroy the Black Crystal"
+msgstr ""
+
+#. [message]: speaker=Fiddleton
+#: Missing_Scepter/scenarios/16_Black_Crystal.cfg:168
+msgid ""
+"That is a lot of forest to search for a shiny rock. For 200gp, I can have it "
+"set on fire."
+msgstr ""
+
+#. [option]: speaker=Fiddleton
+#: Missing_Scepter/scenarios/16_Black_Crystal.cfg:170
+msgid "Execellent idea Mr. Fiddleton. Carry on."
+msgstr ""
+
+#. [option]: speaker=Fiddleton
+#: Missing_Scepter/scenarios/16_Black_Crystal.cfg:195
+msgid "By the book, Mr. Fiddleton. Annihilate the habitants, then search."
+msgstr ""
+
+#. [message]: speaker=Uoiwyua
+#: Missing_Scepter/scenarios/16_Black_Crystal.cfg:211
+msgid "No need to search for the crystal."
+msgstr ""
+
+#. [message]: speaker=Ayieoea
+#: Missing_Scepter/scenarios/16_Black_Crystal.cfg:215
+msgid ""
+"We have found a substitute in the form of music recreated by the repressed "
+"mermen. It's quite moody."
+msgstr ""
+
+#. [message]: speaker=Uoiwyua
+#: Missing_Scepter/scenarios/16_Black_Crystal.cfg:225
+msgid "So, we will just destroy it here and now."
+msgstr ""
+
+#. [message]: speaker=Blackcrystal
+#: Missing_Scepter/scenarios/16_Black_Crystal.cfg:229
+msgid "Eep"
+msgstr ""
+
+#. [scenario]: id=16a_Black_Crystal
+#: Missing_Scepter/scenarios/16a_Black_Crystal.cfg:8
+msgid "Crispy Forest Critters"
+msgstr ""
+
+#. [unit]: type=Blackcrystal, id=Blackcrystal
+#: Missing_Scepter/scenarios/16a_Black_Crystal.cfg:104
+msgid "Black Crystal"
+msgstr ""
+
+#. [message]: speaker=Fiddleton
+#: Missing_Scepter/scenarios/16a_Black_Crystal.cfg:176
+msgid "That cleared things up. Oh, look, there it is."
+msgstr ""
+
+#. [message]: speaker=Uoiwyua
+#: Missing_Scepter/scenarios/16a_Black_Crystal.cfg:180
+msgid ""
+"Monsters. There will not be an Elf anywhere who will not join in the hunt "
+"for you."
+msgstr ""
+
+#. [message]: speaker=Squeeky
+#: Missing_Scepter/scenarios/16a_Black_Crystal.cfg:190
+msgid ""
+"Mycrokroft, please take down my final words. I regret that I have but one "
+"life to give..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/16a_Black_Crystal.cfg:212
+msgid "<0,255,128>Sanctuary for the Last Remaining Rainbow Unicorns"
+msgstr ""
+
+#. [message]: speaker=Mycrokroft
+#: Missing_Scepter/scenarios/16a_Black_Crystal.cfg:226
+msgid ""
+"The Queen's veterans are needed back in Wesnoth. The rest of you will head "
+"north to see if we can help that brother of mine."
+msgstr ""
+
+#. [scenario]: id=17_Meet_Up
+#. [scenario]: id=18d_Exit
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:8
+#: Missing_Scepter/scenarios/18d_Exit.cfg:8
+msgid "Into the Darkness"
+msgstr ""
+
+#. [unit]: type=Ancient Lich, id=Morganfurzty
+#: Missing_Scepter/scenarios/19_Rescue.cfg:367
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:66
+msgid "Professor Morganfurzty"
+msgstr ""
+
+#. [unit]: type=White Mage, id=Martjoem
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:106
+msgid "Martjoem"
+msgstr ""
+
+#. [side]: type=Nightgaunt, id=Girtph, id=Girtph
+#. [side]: type=Banebow, id=Chckr, id=Chckr
+#. [side]: type=Ranger, id=Blodgot, id=Blodgot
+#: Missing_Scepter/scenarios/19_Rescue.cfg:89
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:104
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:120
+msgid "Horse"
+msgstr ""
+
+#. [unit]: type=White Mage, id=Martjoam
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:145
+msgid "Martjoam"
+msgstr ""
+
+#. [side]: type=Draug, id=Krktiktz, id=Krktiktz
+#. [side]: type=Ancient Wose, id=Popular, id=Popular
+#: Missing_Scepter/scenarios/19_Rescue.cfg:116
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:159
+msgid "Treez"
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:192
+msgid "Move Flotsom to the cave pasageway in the North"
+msgstr ""
+
+#. [message]: speaker=Popular
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:249
+msgid ""
+"Alarm! It is an army of forest-burning mermaid-enslaving sticky-fingered "
+"land-grabbing Wesnothians."
+msgstr ""
+
+#. [message]: speaker=Popular
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:255
+msgid ""
+"Alarm! Another wave of sticky-fingered land-grabbing Wesnothians has arrived."
+msgstr ""
+
+#. [message]: speaker=Mycrokroft
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:261
+msgid ""
+"News about us does travel fast. Where is Homz? The trail left by his forces "
+"leads here but then disappears."
+msgstr ""
+
+#. [message]: speaker=Tongue
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:265
+msgid "Master, his brain smells delicious."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:269
+msgid ""
+"Well, Morganfurtzy, you seemed to have lost weight. I knew you went to "
+"ground, I did not think it would be 6 feet under."
+msgstr ""
+
+#. [message]: speaker=Morganfurzty
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:274
+msgid ""
+"Your friends are close Homz, but they will not dash my plans to get the "
+"Green Crystal and reinforce my already colossal intellect. Once that is "
+"done, then I shall be able to control all with my mind--including yours. "
+"Yes, I have plans for you, Warlock Homz. Buh-ha-ha-ha!"
+msgstr ""
+
+#. [message]: speaker=Babs
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:284
+msgid ""
+"The Wesnothians have gotten me. Take the remains of my wealth and avenge us."
+msgstr ""
+
+#. [message]: speaker=Blodgot
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:305
+msgid ""
+"The Wesnothians have gotten me. Take the remains of my wealth and avenge us. "
+"That includes you boney trespassers."
+msgstr ""
+
+#. [message]: speaker=Popular
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:330
+msgid ""
+"The forest burners have destroyed my orchard. Take the remains of my wealth "
+"and avenge us."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:354
+msgid "Ack!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:379
+msgid "Sea monster?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:404
+msgid "There is something in the water"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:429
+msgid "It looks like a tree that can swim. I bet we will be friends."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:457
+msgid "Pearls!"
+msgstr ""
+
+#. [message]: speaker=Tongue
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:495
+msgid "They are trying to sneak in through the back way."
+msgstr ""
+
+#. [unit]: type=Soulless, id=Mindy
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:500
+msgid "Mindy"
+msgstr ""
+
+#. [unit]: type=Soulless, id=Mandy
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:513
+msgid "Mandy"
+msgstr ""
+
+#. [unit]: type=Soulless, id=Mundy
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:526
+msgid "Mundy"
+msgstr ""
+
+#. [unit]: type=Soulless, id=Mendy
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:539
+msgid "Mendy"
+msgstr ""
+
+#. [message]: speaker=Morganfurzty
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:561
+msgid ""
+"Well, Tongue, I think you can handle the rest. I will just take Homz with me "
+"while you clean up the few straggers."
+msgstr ""
+
+#. [message]: speaker=Gongadin
+#: Missing_Scepter/scenarios/17_Meet_Up.cfg:596
+msgid ""
+"At least this time we did not enslave their young to harvest pearls for our "
+"aristocrats' buttons."
+msgstr ""
+
+#. [scenario]: id=18_Troll_Road
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:8
+msgid "Troll Road"
+msgstr ""
+
+#. [unit]: type=Troll Rocklobber, id=Martoem
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:90
+msgid "Martoem"
+msgstr ""
+
+#. [unit]: type=Death Knight, id=Toejoam
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:129
+msgid "Toejoam"
+msgstr ""
+
+#. [unit]: type=Superwallman, id=Wall4904
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:164
+msgid "Wall4904"
+msgstr ""
+
+#. [unit]: type=Death Knight, id=Toejodam
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:171
+msgid "Toejodam"
+msgstr ""
+
+#. [unit]: type=Skeleton, id=Toej
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:183
+msgid "Toej"
+msgstr ""
+
+#. [unit]: type=Skeleton Archer, id=Toerj
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:195
+msgid "Toerj"
+msgstr ""
+
+#. [unit]: type=Skeleton Archer, id=Toerdj
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:207
+msgid "Toerdj"
+msgstr ""
+
+#. [unit]: type=Skeleton Archer, id=Towerdj
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:218
+msgid "Towerdj"
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:242
+msgid "Move Flotsom to the pasageway in the northwest"
+msgstr ""
+
+#. [message]: speaker=Mycrokroft
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:280
+msgid ""
+"Now that we are entering haunted disused caverns, I wonder if there are any "
+"magic artifacts lying about. You know that one really can't find anything of "
+"quality in Weldyn shops. And it would certainly help rescue my brother from "
+"a powerful lich."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:285
+msgid ""
+"Of course. If there are such things as bat wands sitting in the open, then "
+"human wands might be found."
+msgstr ""
+
+#. [message]: speaker=Tungsten
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:298
+msgid ""
+"Welcome to the Eastern Mines. I would give you a tour, but the caverns are a "
+"bit infested with trolls."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:302
+msgid ""
+"We are following a horde of undead who have captured Warlock Homz for some "
+"nefareous purpose."
+msgstr ""
+
+#. [message]: speaker=Tungsten
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:308
+msgid ""
+"Warlock Homz. I have heard that he has done good cave-clearing work. I tell "
+"you what, you can recruit dwarves to your cause while down here and when you "
+"leave through North-West Passage.\n"
+"        \n"
+"Also, I will tell you about the throne rooms nearby. "
+msgstr ""
+
+#. [message]: speaker=Tungsten
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:312
+msgid ""
+"Each throne room controls a lock that opens a passageway. Some of these "
+"passageways have been shut for centuries, so it is not known what can be "
+"found down them. I am guessing hungry vampires or poisonous gas, but I could "
+"be wrong."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:324
+msgid "You may now recruit Thunderguard, Guardsmen, Fighters."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:391
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:413
+msgid "A wall has moved nearby."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:435
+msgid "A wall has moved far away."
+msgstr ""
+
+#. [message]: speaker=Gongadin
+#: Missing_Scepter/scenarios/18_Troll_Road.cfg:481
+msgid ""
+"There appears to be three chambers. I think we have time to check one. \n"
+"        \n"
+"Let us try one that is not filled with poison gas and hungry vampires."
+msgstr ""
+
+#. [scenario]: id=18a_Ice
+#: Missing_Scepter/scenarios/18a_Ice.cfg:8
+msgid "Ice"
+msgstr ""
+
+#. [unit]: id=Agr, type=Naga Warrior
+#. [unit]: id=Agr, type=Wolf
+#: Missing_Scepter/scenarios/18c_Water.cfg:73
+#: Missing_Scepter/scenarios/18a_Ice.cfg:78
+msgid "Agr"
+msgstr ""
+
+#. [unit]: id=Ag, type=Naga Warrior
+#. [unit]: id=Aga, type=Wolf
+#: Missing_Scepter/scenarios/18c_Water.cfg:86
+#: Missing_Scepter/scenarios/18a_Ice.cfg:91
+msgid "Aga"
+msgstr ""
+
+#. [unit]: id=Ag, type=Naga Warrior
+#. [unit]: id=Agg, type=Wolf
+#: Missing_Scepter/scenarios/18c_Water.cfg:98
+#: Missing_Scepter/scenarios/18a_Ice.cfg:103
+msgid "Agg"
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/18c_Water.cfg:122
+#: Missing_Scepter/scenarios/18a_Ice.cfg:127
+#: Missing_Scepter/scenarios/18b_Fire.cfg:73
+msgid "Try not to get killed"
+msgstr ""
+
+#. [message]: speaker=Mycrokroft
+#: Missing_Scepter/scenarios/18a_Ice.cfg:175
+msgid "What are those wolves gnawing on?"
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/18a_Ice.cfg:180
+msgid ""
+"That's not a normal corpse. I think those bones are the remains of a lich. "
+"If we have any luck, it is Morka's."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/scenarios/18c_Water.cfg:199
+#: Missing_Scepter/scenarios/18a_Ice.cfg:193
+#: Missing_Scepter/scenarios/18b_Fire.cfg:164
+msgid "Back into the Caves"
+msgstr ""
+
+#. [scenario]: id=18b_Fire
+#: Missing_Scepter/scenarios/18b_Fire.cfg:8
+msgid "Fire"
+msgstr ""
+
+#. [message]: speaker=Mycrokroft
+#: Missing_Scepter/scenarios/18b_Fire.cfg:107
+msgid "I see something behind that dragon statue."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/18b_Fire.cfg:147
+msgid "That was not a statue! Did not fire dragons recently become extinct?"
+msgstr ""
+
+#. [message]: speaker=Mycrokroft
+#: Missing_Scepter/scenarios/18b_Fire.cfg:151
+msgid ""
+"No. You might be thinking of rainbow unicorns, which I had nothing to do "
+"with."
+msgstr ""
+
+#. [scenario]: id=18c_Water
+#: Missing_Scepter/scenarios/18c_Water.cfg:8
+msgid "Water Water"
+msgstr ""
+
+#. [message]: speaker=Tungs
+#: Missing_Scepter/scenarios/18c_Water.cfg:161
+msgid ""
+"Oh, look, it's the Wesnothians. Sorry it is so wet in here. You won't be "
+"able to burn the place down."
+msgstr ""
+
+#. [message]: speaker=Tungs
+#: Missing_Scepter/scenarios/18c_Water.cfg:169
+msgid ""
+"Fish, fish, fish, fish, I am so tired of eating fish.\n"
+"        \n"
+"Oh, look, the menu has been changed."
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/18d_Exit.cfg:50
+msgid "Move someone to the pasageway in the northwest"
+msgstr ""
+
+#. [message]: speaker=Mycrokroft
+#: Missing_Scepter/scenarios/18d_Exit.cfg:88
+msgid "I guess that we are done here."
+msgstr ""
+
+#. [scenario]: id=19_Rescue
+#: Missing_Scepter/scenarios/19_Rescue.cfg:8
+msgid "Rescue"
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/19_Rescue.cfg:140
+msgid "Move Homz to the exit"
+msgstr ""
+
+#. [unit]: type=Ghost, id=Wolfram
+#: Missing_Scepter/scenarios/19_Rescue.cfg:261
+msgid "Wolfram"
+msgstr ""
+
+#. [message]: speaker=Wolfram
+#. [message]: speaker=Pyrite
+#. [message]: speaker=Pitchblend
+#: Missing_Scepter/scenarios/19_Rescue.cfg:268
+#: Missing_Scepter/scenarios/19_Rescue.cfg:290
+#: Missing_Scepter/scenarios/19_Rescue.cfg:312
+msgid "Now to avenge myself on my killers."
+msgstr ""
+
+#. [unit]: type=Ghost, id=Pyrite
+#: Missing_Scepter/scenarios/19_Rescue.cfg:283
+msgid "Pyrite"
+msgstr ""
+
+#. [unit]: type=Ghost, id=Pitchblend
+#: Missing_Scepter/scenarios/19_Rescue.cfg:305
+msgid "Pitchblend"
+msgstr ""
+
+#. [message]: speaker=Plagbok
+#: Missing_Scepter/scenarios/19_Rescue.cfg:344
+msgid ""
+"This is a good sign. Someone other than the reanimated dead is coming "
+"through the caverns."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/19_Rescue.cfg:348
+msgid ""
+"We are seeking a powerful lich and to stop him from taking over the world "
+"using a crystal that is now in the hands of the Orcs."
+msgstr ""
+
+#. [message]: speaker=Plagbok
+#: Missing_Scepter/scenarios/19_Rescue.cfg:352
+msgid ""
+"The whole world? Well, he has done enough damage here to earn my wrath. No "
+"doubt, the lich has made his way to the port in order to load his cargo of "
+"bones for travel north through the canals."
+msgstr ""
+
+#. [unit]: type=Mermaid Diviner, id=Mercher
+#: Missing_Scepter/scenarios/19_Rescue.cfg:380
+msgid "Mercher Bluefin"
+msgstr ""
+
+#. [message]: speaker=Morganfurzty
+#: Missing_Scepter/scenarios/19_Rescue.cfg:407
+msgid ""
+"So, a rescue party has come after you, but they won't be after me once I "
+"have sunk the remaining transport barges. I will make my way to Vlog-rop-"
+"Blok and snatch the Green Crystal from those low-brow Orcs."
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/19_Rescue.cfg:411
+msgid ""
+"Don't mind after me, Flotsom. Stop Morganfur...Morka before he gets to the "
+"piers."
+msgstr ""
+
+#. [message]: speaker=Morganfurzty
+#: Missing_Scepter/scenarios/19_Rescue.cfg:425
+msgid ""
+"Bah! I don't have time for this. Bogo, finish these fools while I retrieve "
+"my destiny."
+msgstr ""
+
+#. [unit]: type=Necrophage, id=Bogo
+#: Missing_Scepter/scenarios/19_Rescue.cfg:434
+msgid "Bogo"
+msgstr ""
+
+#. [unit]: type=Ghoul, id=Bango
+#: Missing_Scepter/scenarios/19_Rescue.cfg:447
+msgid "Bango"
+msgstr ""
+
+#. [unit]: type=Ghoul, id=Bingo
+#: Missing_Scepter/scenarios/19_Rescue.cfg:460
+msgid "Bingo"
+msgstr ""
+
+#. [unit]: type=Ghoul, id=Bongo
+#: Missing_Scepter/scenarios/19_Rescue.cfg:473
+msgid "Bongo"
+msgstr ""
+
+#. [unit]: type=Ghoul, id=Bungo
+#: Missing_Scepter/scenarios/19_Rescue.cfg:486
+msgid "Bungo"
+msgstr ""
+
+#. [message]: speaker=Mercher
+#: Missing_Scepter/scenarios/19_Rescue.cfg:509
+msgid ""
+"Don't worry about the barges. I will be able to repair them from the bottom "
+"and then we will be after that lich."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/20_Orcs.cfg:9
+msgid ""
+"It was good to have Homz back with us. He told us how he was captured. --ed. "
+"note, a separate adventure, the MS has yet to be published-- He has begun to "
+"worry that Lich Morka was never after the crystals, as it became apparent "
+"that the undead could not use them."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/20_Orcs.cfg:14
+msgid ""
+"News has traveled to us from the north telling of an Orc Renaissance that "
+"occurred in the months they possessed the Green Crystal. Orcs with a few "
+"Elvish allies are making tools equal of Dwarven tools, and buildings, not "
+"just stone forts, but campuses of learning, parks, water storage, sewage "
+"treatment (if I have recorded the term correctly), and constructions that "
+"even our accompanying Dwarves have no name for."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/20_Orcs.cfg:19
+msgid ""
+"Truly, these unfortunate Orcs are victim to the Crystal's imbalance of their "
+"fluids. We have to rescue these wretches from the effects for their own good."
+msgstr ""
+
+#. [side]: type=Orcish Sovereign, id=Peabody
+#: Missing_Scepter/scenarios/20_Orcs.cfg:165
+msgid "bloba"
+msgstr ""
+
+#. [side]: type=Direwolf Rider, id=Milqtoast
+#: Missing_Scepter/scenarios/20_Orcs.cfg:198
+msgid "bslob"
+msgstr ""
+
+#. [objective]: condition=win
+#: Missing_Scepter/scenarios/20_Orcs.cfg:245
+msgid "Destroy the Green Crystal"
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/20_Orcs.cfg:282
+msgid "Mark that glow to the north, that must be the crystal."
+msgstr ""
+
+#. [message]: speaker=Marcher
+#: Missing_Scepter/scenarios/20_Orcs.cfg:292
+msgid ""
+"The Mermen can spare a few fighters for this good cause. If nothing else, "
+"the Orcs shall not move the crystal out into the North Sea by boat. This "
+"little we can do for such humans who support, through inaction, their tyrant."
+msgstr ""
+
+#. [message]: speaker=Meemosha
+#: Missing_Scepter/scenarios/20_Orcs.cfg:296
+msgid "Oh, they are not so bad. And look. They have kept me alive till now."
+msgstr ""
+
+#. [message]: speaker=Marcher
+#: Missing_Scepter/scenarios/20_Orcs.cfg:309
+msgid ""
+"The Mermen can spare a few fighters for this good cause. We might have been "
+"of more help, but few wanted to aid the enslavers of the Bay of Pearls."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/20_Orcs.cfg:326
+msgid "What is that flying rat saying? 'Squeek squeek squeeeeeek'?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/20_Orcs.cfg:339
+msgid "I can see the Green Crystal!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/20_Orcs.cfg:346
+msgid "There is something happening next to it."
+msgstr ""
+
+#. [unit_type]: id=Greenie, race=mechanical
+#. [unit]: type=Greenie, id=Greenie
+#: Missing_Scepter/units/Greenie.cfg:8
+#: Missing_Scepter/scenarios/20_Orcs.cfg:354
+msgid "Greenie"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/20_Orcs.cfg:361
+msgid "They have grown another! Is that even possible?"
+msgstr ""
+
+#. [message]: speaker=Plagbok
+#: Missing_Scepter/scenarios/20_Orcs.cfg:365
+msgid "Sure, we do it all the time. Just not that size or that quickly."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/20_Orcs.cfg:369
+msgid "I wonder what effect having two crystals will have on them?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/scenarios/20_Orcs.cfg:388
+msgid "Odd, there was a big heap of gold in this lighthouse."
+msgstr ""
+
+#. [unit]: type=Greenie, id=GreenG
+#: Missing_Scepter/scenarios/20_Orcs.cfg:413
+msgid "Green Giant"
+msgstr ""
+
+#. [message]: speaker=Plagbok
+#: Missing_Scepter/scenarios/20_Orcs.cfg:423
+msgid "There is a green floating crystal on the battlefield."
+msgstr ""
+
+#. [unit]: type=Greenie, id=GreenH
+#: Missing_Scepter/scenarios/20_Orcs.cfg:431
+msgid "Green Hazard"
+msgstr ""
+
+#. [message]: speaker=Plagbok
+#: Missing_Scepter/scenarios/20_Orcs.cfg:441
+msgid "There is another floating green crystal on the battlefield."
+msgstr ""
+
+#. [unit]: type=Greenie, id=GreenJ
+#: Missing_Scepter/scenarios/20_Orcs.cfg:449
+msgid "Green Jelly"
+msgstr ""
+
+#. [message]: speaker=Plagbok
+#: Missing_Scepter/scenarios/20_Orcs.cfg:459
+msgid "There is yet another floating green crystal on the battlefield."
+msgstr ""
+
+#. [message]: speaker=Milqtoast
+#: Missing_Scepter/scenarios/20_Orcs.cfg:470
+msgid ""
+"Because I could not stop for Death,\n"
+"He kindly stopped for me "
+msgstr ""
+
+#. [message]: speaker=Plagbok
+#: Missing_Scepter/scenarios/20_Orcs.cfg:475
+msgid "The Orc in Orange has been eliminated."
+msgstr ""
+
+#. [message]: speaker=Peabody
+#: Missing_Scepter/scenarios/20_Orcs.cfg:490
+msgid ""
+"To be killed by such as these. Well, Wesnothians\n"
+"Take up the White Mage’s burden\n"
+"To wait in heavy harness\n"
+"On fluttered Orcs and Elves\n"
+"Your new-caught, sullen peoples,\n"
+"Half devil and half child"
+msgstr ""
+
+#. [message]: speaker=Peabody
+#: Missing_Scepter/scenarios/20_Orcs.cfg:507
+msgid ""
+"And all Orcs kill the thing they love,\n"
+"By all let this be heard,\n"
+"Some do it with a bitter look,\n"
+"Some with a flattering word,\n"
+"The coward does it with a kiss,\n"
+"The brave Orc with a battle axe!"
+msgstr ""
+
+#. [message]: speaker=Plagbok
+#: Missing_Scepter/scenarios/20_Orcs.cfg:512
+msgid "We have lost our mermaid ally."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/20_Orcs.cfg:522
+msgid ""
+"And so Homz was able to break the Green Crystal into pieces and return to "
+"Weldyn to find out what Lich Morka's real scheme was."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/21gb_End.cfg:11
+#: Missing_Scepter/scenarios/21bb_End.cfg:11
+#: Missing_Scepter/scenarios/21gg_End.cfg:11
+msgid ""
+"In just one trip and with a few key decisions, Warlock Homz was able effect "
+"the long-term history of Wesnoth."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/21gb_End.cfg:17
+#: Missing_Scepter/scenarios/21bb_End.cfg:17
+#: Missing_Scepter/scenarios/21gg_End.cfg:17
+#: Missing_Scepter/scenarios/21bg_End.cfg:19
+msgid ""
+"The destruction of the four crystals ensured the balance of power between "
+"the races of the continent by preventing the construction of a wand of "
+"malevolent destructiveness."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/21gb_End.cfg:23
+#: Missing_Scepter/scenarios/21bb_End.cfg:23
+#: Missing_Scepter/scenarios/21gg_End.cfg:23
+#: Missing_Scepter/scenarios/21bg_End.cfg:25
+msgid ""
+"The destruction of the individual crystals stopped the unnatural influence "
+"they held on their possessors."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/21gb_End.cfg:29
+#: Missing_Scepter/scenarios/21bb_End.cfg:29
+#: Missing_Scepter/scenarios/21gg_End.cfg:29
+#: Missing_Scepter/scenarios/21bg_End.cfg:31
+msgid ""
+"I still have nightmares where I see well-organized green-glowing-eyed Orcs "
+"with their superior weapons and standards of hygiene coming at me."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/21gb_End.cfg:37
+#: Missing_Scepter/scenarios/21bb_End.cfg:37
+#: Missing_Scepter/scenarios/21gg_End.cfg:37
+#: Missing_Scepter/scenarios/21bg_End.cfg:39
+msgid ""
+"Fortunately, it was a small tribe of Orcs that won't be missed by their "
+"neighbors.\n"
+"        \n"
+"We agreed with our Dwarven allies to erase all evidence of their sickness. "
+"In addition, Homz made certain that the Dwarves did not sneak out with some "
+"of the more singular items. Everything was smashed and burned."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/21bb_End.cfg:45
+msgid ""
+"In helping enslave the merfolk, long-lasting resentment against Wesnoth, "
+"even after they were rescued by Konrad, was maintained\n"
+"        \n"
+"The Merfolk at the Bay of Pearls would never cooperate in making a "
+"profitable center of ocean commerce. Eventually, the city of Elensefar would "
+"eclipse the power of distant impoverished Weldyn."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/21gb_End.cfg:51
+#: Missing_Scepter/scenarios/21bb_End.cfg:51
+msgid ""
+"By choosing to follow the advice of Clarence Pondsworthy Fiddleton to burn "
+"the Forest of Lintanir down, Mycrokroft destroyed a rare species of horned "
+"horse heretofore unknown to humans."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/21gb_End.cfg:57
+#: Missing_Scepter/scenarios/21bb_End.cfg:57
+msgid ""
+"By showing bad environmental sense, Mycrokroft also began a train of thought "
+"among the distant Elves concerning humans. The subject not being whether to "
+"eliminate all humans but when to start."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/21gb_End.cfg:63
+#: Missing_Scepter/scenarios/21bb_End.cfg:63
+#: Missing_Scepter/scenarios/21gg_End.cfg:63
+#: Missing_Scepter/scenarios/21bg_End.cfg:65
+msgid ""
+"While Warlock Homz is good at writing investigation procedures and solving "
+"mysteries that revolve around butter and parsley, he is not the two-fisted "
+"fighter of crime that Squeeky has become."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/21gb_End.cfg:69
+#: Missing_Scepter/scenarios/21bb_End.cfg:69
+#: Missing_Scepter/scenarios/21gg_End.cfg:69
+#: Missing_Scepter/scenarios/21bg_End.cfg:71
+msgid ""
+"When Squeeky returned to Weldyn, it ushered in a new era of fighting "
+"organized costumed crime. Occasionally you will see in the night sky the "
+"Mayor of Wesnoth's special signal calling in Squeeky for an emergency."
+msgstr ""
+
+#. [scenario]: id=21gb_End
+#. [scenario]: id=21bb_End
+#. [scenario]: id=21gg_End
+#. [scenario]: id=21bg_End
+#: Missing_Scepter/scenarios/21gb_End.cfg:78
+#: Missing_Scepter/scenarios/21bb_End.cfg:78
+#: Missing_Scepter/scenarios/21gg_End.cfg:78
+#: Missing_Scepter/scenarios/21bg_End.cfg:80
+msgid "Fallout Ending Sequence"
+msgstr ""
+
+#. [message]: speaker=Eucalypse
+#: Missing_Scepter/scenarios/21gb_End.cfg:147
+#: Missing_Scepter/scenarios/21bb_End.cfg:146
+#: Missing_Scepter/scenarios/21gg_End.cfg:147
+#: Missing_Scepter/scenarios/21bg_End.cfg:151
+msgid ""
+"I live! Who said travelling with that deerstaker wearing butter tester was "
+"certain death?"
+msgstr ""
+
+#. [message]: speaker=Tabbithè
+#: Missing_Scepter/scenarios/21gb_End.cfg:151
+#: Missing_Scepter/scenarios/21bb_End.cfg:150
+#: Missing_Scepter/scenarios/21gg_End.cfg:151
+#: Missing_Scepter/scenarios/21bg_End.cfg:155
+msgid "It is almost as if someone had been watching out for me."
+msgstr ""
+
+#. [message]: speaker=Mycrokroft
+#: Missing_Scepter/scenarios/21gb_End.cfg:161
+#: Missing_Scepter/scenarios/21bb_End.cfg:162
+#: Missing_Scepter/scenarios/21gg_End.cfg:162
+#: Missing_Scepter/scenarios/21bg_End.cfg:166
+msgid ""
+"Well, I hope that I never have to leave Weldyn again, but at least I have "
+"this Wand of Ice Making to show for my troubles. Does anyone need their "
+"drink rechilled?"
+msgstr ""
+
+#. [message]: speaker=Mycrokroft
+#: Missing_Scepter/scenarios/21gb_End.cfg:173
+#: Missing_Scepter/scenarios/21bb_End.cfg:174
+#: Missing_Scepter/scenarios/21gg_End.cfg:174
+#: Missing_Scepter/scenarios/21bg_End.cfg:178
+msgid ""
+"It is a shame that I could not find a single wand in that troll-infested "
+"cavern. Oh well, I'll just get back to my gentlemen's club where I'll drink "
+"heavily and dream about what might have been."
+msgstr ""
+
+#. [message]: speaker=Mycrokroft
+#: Missing_Scepter/scenarios/21gb_End.cfg:187
+#: Missing_Scepter/scenarios/21bb_End.cfg:188
+#: Missing_Scepter/scenarios/21gg_End.cfg:188
+#: Missing_Scepter/scenarios/21bg_End.cfg:192
+msgid ""
+"Well, I hope that I never have to leave Weldyn again, but at least I have "
+"this Staff of Fire to show for my troubles. Does anyone need their pipe lit?"
+msgstr ""
+
+#. [message]: speaker=Mycrokroft
+#: Missing_Scepter/scenarios/21gb_End.cfg:201
+#: Missing_Scepter/scenarios/21bb_End.cfg:202
+#: Missing_Scepter/scenarios/21gg_End.cfg:202
+#: Missing_Scepter/scenarios/21bg_End.cfg:206
+msgid ""
+"Well, I hope that I never have to leave Weldyn again, but at least I have "
+"this Wand of Dirty Water to show for my troubles. Too bad I could not find "
+"something useful, like an Ice Wand or a Fire Staff."
+msgstr ""
+
+#. [message]: speaker=Gongadin
+#: Missing_Scepter/scenarios/21gb_End.cfg:205
+#: Missing_Scepter/scenarios/21bb_End.cfg:206
+#: Missing_Scepter/scenarios/21gg_End.cfg:206
+#: Missing_Scepter/scenarios/21bg_End.cfg:210
+msgid ""
+"It's sort of useful. If you spray it in the kitchen, it tends to kill off "
+"the cockroaches."
+msgstr ""
+
+#. [message]: speaker=Squeeky
+#: Missing_Scepter/scenarios/21gb_End.cfg:219
+#: Missing_Scepter/scenarios/21bb_End.cfg:220
+#: Missing_Scepter/scenarios/21gg_End.cfg:220
+#: Missing_Scepter/scenarios/21bg_End.cfg:224
+msgid ""
+"Is that the bat signal again? Good thing I have this Bat Wand. Otherwise, I "
+"would have to chew on such villains as Red Pepperman and Urchin Woman and "
+"their villainous child: Spiky Hot Sea Pepper Boy."
+msgstr ""
+
+#. [message]: speaker=Squeeky
+#: Missing_Scepter/scenarios/21gb_End.cfg:226
+#: Missing_Scepter/scenarios/21bb_End.cfg:227
+#: Missing_Scepter/scenarios/21gg_End.cfg:227
+#: Missing_Scepter/scenarios/21bg_End.cfg:231
+msgid ""
+"You are lucky. Too bad we could not find a Bat Wand. Now, I have to chew on "
+"such villains as Red Pepperman and the Urchin Woman, and their villainous "
+"child: Spiky Hot Sea Pepper Boy."
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/21gb_End.cfg:233
+#: Missing_Scepter/scenarios/21bb_End.cfg:234
+#: Missing_Scepter/scenarios/21gg_End.cfg:234
+#: Missing_Scepter/scenarios/21bg_End.cfg:238
+msgid ""
+"Ah, I can hear Missus Hoodsun coming with a visitor. The visitor will be a "
+"woman, wearing a red cape, and who owns two cats, both orange in color."
+msgstr ""
+
+#. [message]: speaker=Hoodsun
+#: Missing_Scepter/scenarios/21gb_End.cfg:259
+#: Missing_Scepter/scenarios/21bb_End.cfg:260
+#: Missing_Scepter/scenarios/21gg_End.cfg:260
+#: Missing_Scepter/scenarios/21bg_End.cfg:264
+msgid "You have a visitor, Mistah Homz"
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/scenarios/21gb_End.cfg:263
+#: Missing_Scepter/scenarios/21bb_End.cfg:264
+#: Missing_Scepter/scenarios/21gg_End.cfg:264
+#: Missing_Scepter/scenarios/21bg_End.cfg:268
+msgid "How could you have possibly known?"
+msgstr ""
+
+#. [message]: speaker=Homz
+#: Missing_Scepter/scenarios/21gb_End.cfg:267
+#: Missing_Scepter/scenarios/21bb_End.cfg:268
+#: Missing_Scepter/scenarios/21gg_End.cfg:268
+#: Missing_Scepter/scenarios/21bg_End.cfg:272
+msgid ""
+"It was elementary, my dear Flotsom. You should get a fresh notebook. I have "
+"a feeling this will be a lengthy case to solve."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/21bg_End.cfg:13
+msgid ""
+"In just one trip and with a few key decisions, Warlock Homz was able effect "
+"the long-term history of Wesnoth.\n"
+"            \n"
+"bg"
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/21bg_End.cfg:47
+msgid ""
+"In helping enslave the merfolk, a long-lasting resentment against Wesnoth, "
+"even after the rescue by Konrad, was maintained\n"
+"        \n"
+"The Merfolk at the Bay of Pearls would never cooperate in making the Bay of "
+"Pearls a profitable center of sea-centered commerce. Eventually, the city of "
+"Elensefar would eclipse the power of distant impoverished Weldyn."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/21gg_End.cfg:51
+#: Missing_Scepter/scenarios/21bg_End.cfg:53
+msgid ""
+"By choosing not to follow the advice of Clarence Pondsworthy Fiddleton to "
+"burn the Forest of Lintanir down, Mycrokroft saved a rare species of horned "
+"horse heretofore unknown to humans."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/21gg_End.cfg:57
+#: Missing_Scepter/scenarios/21bg_End.cfg:59
+msgid ""
+"By showing good environmental sense, Mycrokroft also stalled the discussions "
+"between these distant Elves were having on the subject of eliminating all "
+"humans."
+msgstr ""
+
+#. [part]
+#: Missing_Scepter/scenarios/21gb_End.cfg:45
+#: Missing_Scepter/scenarios/21gg_End.cfg:45
+msgid ""
+"The Bay of Pearls was not spared from conquest and enslavement, but by "
+"standing up against a fellow Wesnothian, the merfolk did not hold a long "
+"resentment against Wesnoth after they were rescued by Konrad.\n"
+"\n"
+"The Bay of Pearls would become a profitable center of sea-centered commerce. "
+"After the death of Queen Asheviere, former breakaway cities would re-examine "
+"the benefits of remaining independent from a wealthy peaceful kingdom."
+msgstr ""
+
+#. [unit_type]: id=Blackcrystal, race=mechanical
+#: Missing_Scepter/units/Blackcrystal.cfg:8
+msgid "Blackcrystal"
+msgstr ""
+
+#. [unit_type]: id=Blackcrystal, race=mechanical
+#: Missing_Scepter/units/Blackcrystal.cfg:24
+msgid "The Black Melancholic Crystal"
+msgstr ""
+
+#. [unit_type]: id=Flotsom Elder, race=human
+#: Missing_Scepter/units/Flotsom_Elder.cfg:8
+msgid "Flotsom Elder Mage"
+msgstr ""
+
+#. [unit_type]: id=Flotsom Elder, race=human
+#: Missing_Scepter/units/Flotsom_Elder.cfg:34
+msgid ""
+"Flotsom was trained as a healing mage. While still young, he left with "
+"forces under the command of Garard II, spending most of the war in the "
+"foothills north of the Swamps of Dread cut off from the real war going on "
+"farther south. At the end of the war, he returned to Weldyn to set up a "
+"healing practice, which you can read about in A Study in Magenta.\n"
+"    \n"
+"After hanging around Homz and his experiments for some years, Flotsom has "
+"picked up the ability to poison living creatures with his Staff of "
+"Injections.\n"
+"\n"
+"Flotsom glows in the dark. This is something that has gotten on Homz's "
+"nerves. \n"
+"\n"
+"Unlike most elder white mages, Flotsom wears robes in any color but white "
+"(to hide the splatters, most likely)."
+msgstr ""
+
+#. [attack]: type=impact
+#: Missing_Scepter/units/Flotsom_Silver.cfg:57
+#: Missing_Scepter/units/Flotsom_Elder.cfg:117
+msgid "poison staff"
+msgstr ""
+
+#. [attack]: type=fire
+#: Missing_Scepter/units/Homz_Elder.cfg:65
+#: Missing_Scepter/units/Flotsom_Elder.cfg:129
+msgid "lightning"
+msgstr ""
+
+#. [unit_type]: id=Flotsom Silver, race=human
+#: Missing_Scepter/units/Flotsom_Silver.cfg:8
+msgid "Flotsom Silver"
+msgstr ""
+
+#. [unit_type]: id=Flotsom Silver, race=human
+#: Missing_Scepter/units/Flotsom_Silver.cfg:28
+msgid ""
+"Flotsom was trained as a healing mage. While still young, he left with "
+"forces under the command of Garard II, spending most of the war in the "
+"foothills north of the Swamps of Dread cut off from the real war going on "
+"farther south. At the end of the war, he returned to Weldyn to set up a "
+"healing practice, which you can read about in A Study in Magenta.\n"
+"    \n"
+"By choosing the path of a Silver, Flotsom can still cure wounds, but only at "
+"the rate of a novice. After hanging around Homz and his experiments for some "
+"years, Flotsom has picked up the ability to poison living creatures with his "
+"Staff of Injections.\n"
+"\n"
+msgstr ""
+
+#. [attack]: type=fire
+#: Missing_Scepter/units/Flotsom_Silver.cfg:69
+msgid "missile"
+msgstr ""
+
+#. [unit_type]: id=Flotsom White, race=human
+#: Missing_Scepter/units/Flotsom_White.cfg:8
+msgid "Flotsom"
+msgstr ""
+
+#. [unit_type]: id=Flotsom White, race=human
+#: Missing_Scepter/units/Flotsom_White.cfg:24
+msgid ""
+"Flotsom was trained as a healing mage. While still young, he left with "
+"forces under the command of Garard II, spending most of the war in the "
+"foothills north of the Swamps of Dread cut off from the real war going on "
+"farther south. At the end of the war, he returned to Weldyn to set up a "
+"healing practice, which you can read about in A Study in Magenta."
+msgstr ""
+
+#. [attack]: type=impact
+#: Missing_Scepter/units/Homz_Elder.cfg:56
+#: Missing_Scepter/units/Flotsom_White.cfg:140
+msgid "staff"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Missing_Scepter/units/Flotsom_White.cfg:149
+#: Missing_Scepter/units/Flotsom_of_Light.cfg:130
+msgid "lightbeam"
+msgstr ""
+
+#. [unit_type]: id=Flotsom of Light, race=human
+#: Missing_Scepter/units/Flotsom_of_Light.cfg:8
+msgid "Flotsom of Light"
+msgstr ""
+
+#. [unit_type]: id=Flotsom of Light, race=human
+#: Missing_Scepter/units/Flotsom_of_Light.cfg:29
+msgid ""
+"Flotsom was trained as a healing mage. While still young, he left with "
+"forces under the command of Garard II, spending most of the war in the "
+"foothills north of the Swamps of Dread cut off from the real war going on "
+"farther south. At the end of the war, he returned to Weldyn to set up a "
+"healing practice, which you can read about in A Study in Magenta.\n"
+"    \n"
+"Flotsom glows in the dark. This is something that has gotten on Homz's "
+"nerves. \n"
+"\n"
+msgstr ""
+
+#. [attack]: type=impact
+#: Missing_Scepter/units/Flotsom_of_Light.cfg:121
+msgid "morning star"
+msgstr ""
+
+#. [unit_type]: id=Greencrystal, race=mechanical
+#: Missing_Scepter/units/Greencrystal.cfg:8
+msgid "Greencrystal"
+msgstr ""
+
+#. [unit_type]: id=Greencrystal, race=mechanical
+#: Missing_Scepter/units/Greencrystal.cfg:24
+msgid "The Green Phlegmic Crystal"
+msgstr ""
+
+#. [unit_type]: id=Greenie, race=mechanical
+#: Missing_Scepter/units/Greenie.cfg:26
+msgid ""
+"Bud from the Green Phlegmic Crystal\n"
+"    \n"
+"The crystal effects surrounding units with more intelligence, allowing them "
+"to fight more cohesively and developing battle strategies on the spot. "
+msgstr ""
+
+#. [attack]: type=impact
+#: Missing_Scepter/units/Greenie.cfg:34
+msgid "crushing roll"
+msgstr ""
+
+#. [attack]: type=cold
+#: Missing_Scepter/units/Greenie.cfg:43
+msgid "cold flash"
+msgstr ""
+
+#. [unit_type]: id=Homz Arch, race=human
+#: Missing_Scepter/units/Homz_Arch.cfg:8
+msgid "Homz Arch"
+msgstr ""
+
+#. [unit_type]: id=Homz Arch, race=human
+#: Missing_Scepter/units/Homz_Arch.cfg:27
+msgid ""
+"Homz childhood was spent in training similar to that of Red Mages, but later "
+"became interested in using deductive reasoning to solve crimes. 'From a pad "
+"of butter,' Homz writes, 'a logician could infer the possibility of a cow or "
+"a goat without having seen or heard of one or the other.' Homzian deductive "
+"process appears to be primarily of drawing inferences based from observing "
+"items found in kitchens. In Wesnoth, many of his monograms on states of "
+"parsley tumescence or fat density in butter and cheeses can be found--"
+"because, seriously, no one wants to read such things, so they are on "
+"bookstores shelves collecting dust.\n"
+"    \n"
+"Unlike his brother Mycrokroft, Homz tries not to aid Queen Asheviere while "
+"not trying to hurt the people of Wesnoth. Instead, he keeps to solving "
+"crimes and creating investigation procedures for Weldyn's nascent police "
+"force.\n"
+"    \n"
+"Homz is slightly healthier than most mages and takes a magnifier staff with "
+"him that helps in investigations and killing large bugs when the Sun is out."
+msgstr ""
+
+#. [attack]: type=impact
+#: Missing_Scepter/units/Homz_Arch.cfg:87
+msgid "Staff of Magnifying"
+msgstr ""
+
+#. [attack]: type=fire
+#: Missing_Scepter/units/Homz_Great.cfg:57
+#: Missing_Scepter/units/Homz_Arch.cfg:96
+#: Missing_Scepter/units/Homz_Red.cfg:79
+msgid "fireball"
+msgstr ""
+
+#. [unit_type]: id=Homz Elder, race=human
+#: Missing_Scepter/units/Homz_Elder.cfg:8
+msgid "Homz Elder Mage"
+msgstr ""
+
+#. [unit_type]: id=Homz Elder, race=human
+#: Missing_Scepter/units/Homz_Elder.cfg:37
+msgid ""
+"Homz childhood was spent in training similar to that of Red Mages, but later "
+"became interested in using deductive reasoning to solve crimes. 'From a pad "
+"of butter,' Homz writes, 'a logician could infer the possibility of a cow or "
+"a goat without having seen or heard of one or the other.' Homzian deductive "
+"process appears to be primarily of drawing inferences based from observing "
+"items found in kitchens. In Wesnoth, many of his monograms on states of "
+"parsley tumescence or fat density in butter and cheeses can be found--"
+"because, seriously, no one wants to read such things, so they are on "
+"bookstores shelves collecting dust.\n"
+"    \n"
+"Unlike his brother Mycrokroft, Homz tries not to aid Queen Asheviere while "
+"not trying to hurt the people of Wesnoth. Instead, he keeps to solving "
+"crimes and creating investigation procedures for Weldyn's nascent police "
+"force.\n"
+"\n"
+"Long experience with chemicals has given Homz the ability to make poison "
+"antidotes.\n"
+"\n"
+"Having tracked many underworld criminals in Weldyn, Homz can conceal himself "
+"from the enemy when in a village.\n"
+"    \n"
+"The elder Homz wears a deerstaker with a brown and yellow houndstooth "
+"pattern. Mostly, he does this to hide his hair loss but it does help "
+"camouflage himself in the field from creatures that can't see in color.\n"
+"\n"
+msgstr ""
+
+#. [unit_type]: id=Homz Great, race=human
+#: Missing_Scepter/units/Homz_Great.cfg:8
+msgid "Homz Great Mage"
+msgstr ""
+
+#. [unit_type]: id=Homz Great, race=human
+#: Missing_Scepter/units/Homz_Great.cfg:28
+msgid ""
+"Almost at the final level.\n"
+"    \n"
+"Homz childhood was spent in training similar to that of Red Mages, but later "
+"became interested in using deductive reasoning to solve crimes. 'From a pad "
+"of butter,' Homz writes, 'a logician could infer the possibility of a cow or "
+"a goat without having seen or heard of one or the other.' Homzian deductive "
+"process appears to be primarily of drawing inferences based from observing "
+"items found in kitchens. In Wesnoth, many of his monograms on states of "
+"parsley tumescence or fat density in butter and cheeses can be found--"
+"because, seriously, no one wants to read such things, so they are on "
+"bookstores shelves collecting dust.\n"
+"    \n"
+"Unlike his brother Mycrokroft, Homz tries not to aid Queen Asheviere while "
+"not trying to hurt the people of Wesnoth. Instead, he keeps to solving "
+"crimes and creating investigation procedures for Weldyn's nascent police "
+"force."
+msgstr ""
+
+#. [attack]: type=impact
+#: Missing_Scepter/units/Homz_Great.cfg:48
+msgid "staff with magnifier"
+msgstr ""
+
+#. [unit_type]: id=Homz Red, race=human
+#: Missing_Scepter/units/Homz_Red.cfg:8
+msgid "Homz Red"
+msgstr ""
+
+#. [unit_type]: id=Homz Red, race=human
+#: Missing_Scepter/units/Homz_Red.cfg:25
+msgid ""
+"Homz childhood was spent in training similar to that of Red Mages, but later "
+"became interested in using deductive reasoning to solve crimes. 'From a pad "
+"of butter,' Homz writes, 'a logician could infer the possibility of a cow or "
+"a goat without having seen or heard of one or the other.' Homzian deductive "
+"process appears to be primarily of drawing inferences based from observing "
+"items found in kitchens. In Wesnoth, many of his monograms on states of "
+"parsley tumescence or fat density in butter and cheeses can be found--"
+"because, seriously, no one wants to read such things, so they are on "
+"bookstores shelves collecting dust.\n"
+"    \n"
+"Unlike his brother Mycrokroft, Homz tries not to aid Queen Asheviere while "
+"not trying to hurt the people of Wesnoth. Instead, he keeps to solving "
+"crimes and creating investigation procedures for Weldyn's nascent police "
+"force."
+msgstr ""
+
+#. [attack]: type=impact
+#: Missing_Scepter/units/Homz_Red.cfg:70
+msgid "magnifier staff"
+msgstr ""
+
+#. [unit_type]: id=Quintain, race=mechanical
+#: Missing_Scepter/units/Quintain.cfg:8
+msgid "Quintain"
+msgstr ""
+
+#. [unit_type]: id=Quintain, race=mechanical
+#: Missing_Scepter/units/Quintain.cfg:18
+msgid ""
+"Quintains are used to practice swordplay and jousting on. It would be "
+"extremely unusual to be attacked by one."
+msgstr ""
+
+#. [attack]: type=impact
+#: Missing_Scepter/units/Quintain.cfg:26
+msgid "flail"
+msgstr ""
+
+#. [unit_type]: id=Redcrystal, race=mechanical
+#: Missing_Scepter/units/Redcrystal.cfg:8
+msgid "Redcrystal"
+msgstr ""
+
+#. [unit_type]: id=Redcrystal, race=mechanical
+#: Missing_Scepter/units/Redcrystal.cfg:21
+msgid "The Red Sanguine Crystal"
+msgstr ""
+
+#. [unit_type]: id=Superwallman, race=mechanical
+#: Missing_Scepter/units/Superwallman.cfg:8
+msgid "Superwallman"
+msgstr ""
+
+#. [unit_type]: id=Superwallman, race=mechanical
+#: Missing_Scepter/units/Superwallman.cfg:21
+msgid "No longer a wall daisy, the Superwallman hits back."
+msgstr ""
+
+#. [attack]: type=blade
+#: Missing_Scepter/units/Superwallman.cfg:25
+msgid "falling stones"
+msgstr ""
+
+#. [unit_type]: id=Wallman, race=mechanical
+#: Missing_Scepter/units/Wallman.cfg:8
+msgid "Wallman"
+msgstr ""
+
+#. [unit_type]: id=Wallman, race=mechanical
+#: Missing_Scepter/units/Wallman.cfg:21
+msgid ""
+"Wallmen are harmless, unless they get some experience, then they hit back."
+msgstr ""
+
+#. [unit_type]: id=Yellowcrystal, race=mechanical
+#: Missing_Scepter/units/Yellowcrystal.cfg:8
+msgid "Yellowcrystal"
+msgstr ""
+
+#. [unit_type]: id=Yellowcrystal, race=mechanical
+#: Missing_Scepter/units/Yellowcrystal.cfg:21
+msgid "The Yellow Choleric Crystal"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/utils/deaths.cfg:14
+msgid "Flotsom, I was wrong about the parsley"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Missing_Scepter/utils/deaths.cfg:29
+msgid "How is it possible? This is all being written in the past-tense."
+msgstr ""
+
+#. [message]: speaker=Flotsom
+#: Missing_Scepter/utils/deaths.cfg:43
+msgid "You were the best water carrier in the Queen's army."
+msgstr ""
+
+#. [message]: speaker=Mycrokroft
+#: Missing_Scepter/utils/deaths.cfg:56
+msgid "I should have stayed in Weldyn."
+msgstr ""
+
+#. [message]: speaker=Meemosha
+#: Missing_Scepter/utils/deaths.cfg:70
+msgid "To be killed aiding these Wesnotians so far from the sea. Thanks dad."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/utils/swords.cfg:36
+msgid "Do you want this unit to pick up the sword?"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Missing_Scepter/utils/swords.cfg:38 Missing_Scepter/utils/swords.cfg:131
+#: Missing_Scepter/utils/swords.cfg:218 Missing_Scepter/utils/swords.cfg:306
+#: Missing_Scepter/utils/swords.cfg:402
+msgid "Yes"
+msgstr ""
+
+#. [object]: id={ID}
+#: Missing_Scepter/utils/swords.cfg:42
+msgid "Flaming Sword from Heir to the Throne"
+msgstr ""
+
+#. [object]: id={ID}
+#: Missing_Scepter/utils/swords.cfg:45
+msgid "It cuts butter! Even frozen butter!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/utils/swords.cfg:53
+msgid "Anyone can use this sword."
+msgstr ""
+
+#. [effect]: type=fire
+#: Missing_Scepter/utils/swords.cfg:61
+msgid "flaming sword"
+msgstr ""
+
+#. [option]: speaker=narrator
+#: Missing_Scepter/utils/swords.cfg:83 Missing_Scepter/utils/swords.cfg:169
+#: Missing_Scepter/utils/swords.cfg:257 Missing_Scepter/utils/swords.cfg:353
+#: Missing_Scepter/utils/swords.cfg:441
+msgid "No"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/utils/swords.cfg:129
+msgid "Do you want this unit to pick up the throwing axe?"
+msgstr ""
+
+#. [object]: id={ID}
+#: Missing_Scepter/utils/swords.cfg:135
+msgid "Ice Axe"
+msgstr ""
+
+#. [object]: id={ID}
+#: Missing_Scepter/utils/swords.cfg:138
+msgid "You throw it and it comes back. No guarantee that it hits anything."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/utils/swords.cfg:146
+msgid ""
+"Anyone can use this axe. Maybe someone that does not have a ranged weapon "
+"could find it useful"
+msgstr ""
+
+#. [effect]: type=cold
+#: Missing_Scepter/utils/swords.cfg:154
+msgid "throwing axe"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/utils/swords.cfg:216
+msgid "Do you want this unit to pick up the ice wand?"
+msgstr ""
+
+#. [object]: id={ID}
+#: Missing_Scepter/utils/swords.cfg:222
+msgid "Ice Wand"
+msgstr ""
+
+#. [object]: id={ID}
+#: Missing_Scepter/utils/swords.cfg:225
+msgid "Chills anything. Good at garden parties."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/utils/swords.cfg:233 Missing_Scepter/utils/swords.cfg:417
+msgid ""
+"Anyone can use this wand. Maybe someone that does not have a ranged weapon "
+"could find it useful"
+msgstr ""
+
+#. [effect]: type=cold
+#: Missing_Scepter/utils/swords.cfg:241
+msgid "wand of cold"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/utils/swords.cfg:304
+msgid "Do you want this unit to pick up the staff?"
+msgstr ""
+
+#. [object]: id={ID}
+#: Missing_Scepter/utils/swords.cfg:310
+msgid "Flame Staff"
+msgstr ""
+
+#. [object]: id={ID}
+#: Missing_Scepter/utils/swords.cfg:313
+msgid "Burn 'em!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/utils/swords.cfg:321
+msgid "Anyone can use this staff."
+msgstr ""
+
+#. [effect]: type=fire
+#: Missing_Scepter/utils/swords.cfg:329
+msgid "burning staff"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Missing_Scepter/utils/swords.cfg:400
+msgid "Do you want this unit to pick up the Water Wand?"
+msgstr ""
+
+#. [object]: id={ID}
+#: Missing_Scepter/utils/swords.cfg:406
+msgid "Water Wand"
+msgstr ""
+
+#. [object]: id={ID}
+#: Missing_Scepter/utils/swords.cfg:409
+msgid "A burst of poison water"
+msgstr ""
+
+#. [effect]: type=impact
+#: Missing_Scepter/utils/swords.cfg:425
+msgid "wand of bad water"
 msgstr ""
